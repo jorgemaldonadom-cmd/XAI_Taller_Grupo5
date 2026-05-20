@@ -1,0 +1,1071 @@
+alumno_id,horas_estudio_sem,asistencia_pct,participacion_clase,num_tareas_entregadas,promedio_examenes_parciales,acceso_internet,nivel_socioeconomico,horas_trabajo_sem,num_reprobadas_previas,modalidad,tutor_asignado,nota_final,resultado
+20001,22.0,32.9,1,8,31.67,Si,MEDIO,11,2,híbrido,0,31.51,Reprobado
+20002,21.0,80.9,alta,2,82.46,0,,39,5,Presencial,0,91.08,Excelente
+20003,23.0,33.7,1,7,49.6,0,bajo,38,2,presencial,1,60.34,Suficiente
+20004,7.0,90.6,media,12,49.62,,Alto,36,6,presencial,0,33.5,Reprobado
+20005,,36.7,1,13,35.21,NO,Bajo,36,0,EN LÍNEA,0,27.73,Reprobado
+20006,10.0,78.4,2,18,36.38,1,bajo,29,2,híbrido,0,48.56,Reprobado
+20007,,36.5,media,7,56.12,Si,Bajo,25,4,Presencial,0,69.66,Suficiente
+20008,14.0,47.4,ALTA,4,99.39,1,MEDIO,31,4,presencial,0,75.75,Bueno
+20009,,95.1,Baja,17,54.45,1,bajo,28,1,Presencial,1,47.0,Reprobado
+20010,21.0,77.6,Media,5,35.91,NO,Alto,27,3,EN LÍNEA,0,68.4,Suficiente
+20011,33.0,59.4,Media,10,68.62,si,bajo,9,7,EN LÍNEA,0,65.7,Suficiente
+20012,39.0,48.3,alta,10,,NO,MEDIO,6,3,híbrido,0,79.97,Bueno
+20013,45.0,79.9,alta,16,81.91,si,bajo,12,6,Presencial,0,100.0,Excelente
+20014,29.0,37.4,alta,14,93.58,NO,,1,2,Presencial,0,92.17,Excelente
+20015,0.0,40.2,Media,1,66.12,0,Alto,21,4,EN LÍNEA,0,47.73,Reprobado
+20016,6.0,80.1,Media,18,89.45,Si,Bajo,21,7,híbrido,0,78.1,Bueno
+20017,,36.9,alta,9,32.46,No,bajo,26,0,híbrido,1,42.07,Reprobado
+20018,2.0,52.7,media,3,93.37,No,Medio,46,1,en línea,0,59.64,Reprobado
+20019,6.0,30.1,2,7,44.45,NO,,41,1,en línea,1,30.18,Reprobado
+20020,22.0,98.3,Media,3,39.15,1,Bajo,29,7,híbrido,1,60.6,Suficiente
+20021,25.0,41.2,Media,4,92.64,No,MEDIO,25,4,en línea,1,86.04,Bueno
+20022,11.0,72.8,2,15,35.09,NO,Bajo,29,2,Presencial,1,57.97,Reprobado
+20023,,77.1,Baja,19,72.5,,bajo,7,1,presencial,1,82.35,Bueno
+20024,29.0,78.3,Media,10,68.08,si,Medio,24,3,en línea,1,89.36,Bueno
+20025,32.0,48.3,media,16,31.03,0,Bajo,14,2,híbrido,0,60.5,Suficiente
+20026,48.0,50.2,media,16,82.05,No,,14,2,presencial,0,100.0,Excelente
+20027,29.0,34.6,alta,7,52.78,,Alto,33,4,EN LÍNEA,1,59.76,Reprobado
+20028,8.0,78.9,Media,0,33.02,NO,Alto,0,0,Presencial,0,44.71,Reprobado
+20029,35.0,48.3,alta,8,36.15,1,bajo,0,0,presencial,0,57.19,Reprobado
+20030,10.0,45.4,Baja,7,49.94,NO,bajo,17,2,EN LÍNEA,0,52.55,Reprobado
+20031,1.0,53.1,alta,19,76.16,NO,Bajo,36,5,en línea,1,33.06,Reprobado
+20032,12.0,46.5,Alta,6,,Si,MEDIO,6,4,EN LÍNEA,0,60.34,Suficiente
+20033,7.0,56.1,alta,15,92.59,NO,Bajo,34,1,presencial,1,65.32,Suficiente
+20034,38.0,48.1,ALTA,5,68.26,NO,Alto,47,3,híbrido,0,95.96,Excelente
+20035,15.0,67.9,alta,2,58.69,NO,Medio,41,2,Presencial,1,46.61,Reprobado
+20036,35.0,51.9,1,6,91.58,1,,2,6,Presencial,0,86.58,Bueno
+20037,12.0,52.4,Alta,8,57.17,0,Bajo,2,2,presencial,1,54.4,Reprobado
+20038,1.0,85.1,2,5,63.4,1,Bajo,28,5,Presencial,0,42.1,Reprobado
+20039,38.0,77.6,Alta,11,58.37,,Alto,32,2,híbrido,0,83.66,Bueno
+20040,,59.3,0,15,,No,MEDIO,43,2,presencial,1,59.29,Reprobado
+20041,5.0,60.3,Media,1,79.06,Si,,19,5,presencial,1,68.08,Suficiente
+20042,11.0,80.1,Alta,3,,si,Bajo,16,3,EN LÍNEA,0,48.65,Reprobado
+20043,11.0,63.9,Media,13,74.98,0,bajo,5,1,híbrido,0,62.54,Suficiente
+20044,23.0,87.4,media,8,39.48,0,,4,7,en línea,1,73.16,Suficiente
+20045,,60.1,Media,3,86.36,NO,MEDIO,25,4,EN LÍNEA,0,100.0,Excelente
+20046,6.0,96.6,media,15,82.29,Si,MEDIO,26,1,híbrido,1,60.97,Suficiente
+20047,48.0,66.6,2,11,36.54,Si,Alto,20,5,en línea,0,68.24,Suficiente
+20048,23.0,61.6,Media,10,71.15,No,Medio,46,7,presencial,1,79.21,Bueno
+20049,11.0,78.4,Alta,11,,0,MEDIO,34,1,Presencial,1,57.49,Reprobado
+20050,36.0,91.8,0,0,80.87,No,bajo,27,6,presencial,0,85.14,Bueno
+20051,46.0,35.8,media,6,98.43,,Medio,15,6,presencial,0,98.32,Excelente
+20052,29.0,43.5,Baja,15,35.86,1,bajo,23,4,en línea,1,58.67,Reprobado
+20053,2.0,63.5,0,17,74.98,Si,MEDIO,28,1,híbrido,0,67.8,Suficiente
+20054,2.0,48.8,1,14,86.81,NO,MEDIO,43,3,en línea,1,65.49,Suficiente
+20055,34.0,72.8,ALTA,10,44.44,1,bajo,47,7,presencial,0,80.01,Bueno
+20056,5.0,97.8,0,11,43.56,1,Alto,33,4,Presencial,1,42.97,Reprobado
+20057,,41.6,Baja,5,68.32,,Medio,2,5,híbrido,0,70.98,Suficiente
+20058,18.0,76.6,1,19,42.1,NO,Medio,9,2,presencial,1,58.36,Reprobado
+20059,,91.1,media,1,59.53,si,Alto,19,7,EN LÍNEA,1,78.31,Bueno
+20060,19.0,86.4,1,18,57.25,si,,47,7,Presencial,1,65.5,Suficiente
+20061,,43.9,0,19,,No,,39,1,en línea,1,78.67,Bueno
+20062,0.0,64.7,Media,19,89.64,1,MEDIO,37,2,presencial,0,69.01,Suficiente
+20063,44.0,81.8,ALTA,6,94.61,NO,Bajo,13,5,en línea,0,100.0,Excelente
+20064,14.0,62.7,Baja,13,91.58,0,Medio,34,7,en línea,0,77.71,Bueno
+20065,6.0,59.1,media,5,,Si,bajo,15,2,híbrido,0,44.5,Reprobado
+20066,7.0,77.8,Baja,6,83.01,si,MEDIO,4,2,EN LÍNEA,1,72.33,Suficiente
+20067,,33.1,2,8,56.02,si,bajo,6,3,presencial,1,66.2,Suficiente
+20068,35.0,37.7,0,12,95.16,Si,Alto,20,1,presencial,1,98.82,Excelente
+20069,40.0,91.0,1,6,51.64,No,bajo,39,0,híbrido,0,90.03,Excelente
+20070,38.0,63.1,2,15,43.97,Si,MEDIO,13,7,EN LÍNEA,1,73.07,Suficiente
+20071,38.0,39.0,Baja,6,88.04,Si,,18,0,Presencial,1,80.53,Bueno
+20072,35.0,86.4,1,10,50.64,No,Medio,28,6,Presencial,1,88.77,Bueno
+20073,22.0,41.0,ALTA,5,75.85,Si,bajo,10,2,Presencial,0,78.22,Bueno
+20074,22.0,85.2,alta,7,66.26,si,Medio,24,4,en línea,1,78.75,Bueno
+20075,44.0,82.4,Media,14,43.56,No,bajo,43,4,Presencial,0,79.09,Bueno
+20076,0.0,61.2,Media,6,78.72,si,Medio,33,7,en línea,1,48.91,Reprobado
+20077,23.0,85.8,media,4,71.48,Si,Medio,2,6,EN LÍNEA,1,74.22,Suficiente
+20078,,61.7,Baja,16,59.77,NO,Medio,0,3,en línea,0,68.46,Suficiente
+20079,0.0,76.7,ALTA,18,65.59,Si,MEDIO,44,1,híbrido,0,46.01,Reprobado
+20080,40.0,86.7,Baja,10,33.07,Si,MEDIO,2,3,EN LÍNEA,0,78.16,Bueno
+20081,4.0,63.1,Media,2,62.37,1,Alto,4,1,presencial,1,41.27,Reprobado
+20082,7.0,53.3,1,2,,NO,Medio,42,7,presencial,1,44.71,Reprobado
+20083,21.0,89.7,Alta,10,30.0,1,,5,6,presencial,1,53.79,Reprobado
+20084,14.0,55.6,Baja,6,42.61,Si,,44,0,presencial,1,49.64,Reprobado
+20085,,34.6,media,1,,NO,Alto,31,7,EN LÍNEA,1,57.43,Reprobado
+20086,21.0,91.1,media,4,66.52,,Alto,27,4,en línea,0,78.54,Bueno
+20087,18.0,40.9,0,3,40.19,Si,Medio,2,6,híbrido,0,64.7,Suficiente
+20088,8.0,98.8,0,4,30.45,Si,bajo,28,5,Presencial,0,42.69,Reprobado
+20089,,37.0,alta,6,57.32,1,Alto,15,5,híbrido,0,77.46,Bueno
+20090,3.0,82.4,Media,14,42.13,Si,MEDIO,29,2,en línea,1,41.83,Reprobado
+20091,33.0,46.6,2,15,71.66,Si,,18,2,en línea,0,74.44,Suficiente
+20092,24.0,78.3,2,6,64.44,Si,MEDIO,39,1,presencial,0,69.54,Suficiente
+20093,2.0,62.7,Media,15,74.62,1,Bajo,19,7,presencial,0,74.38,Suficiente
+20094,10.0,57.3,Alta,18,,,bajo,35,1,en línea,0,53.17,Reprobado
+20095,25.0,76.8,Alta,9,82.57,si,Medio,40,0,EN LÍNEA,0,79.48,Bueno
+20096,46.0,64.2,1,2,31.72,Si,MEDIO,29,7,Presencial,0,81.61,Bueno
+20097,1.0,86.9,ALTA,18,60.94,Si,Medio,40,4,Presencial,0,51.93,Reprobado
+20098,11.0,46.6,1,1,59.94,No,,31,0,híbrido,0,60.11,Suficiente
+20099,36.0,43.2,Baja,8,95.2,NO,Bajo,15,6,presencial,1,90.79,Excelente
+20100,38.0,55.0,1,3,73.04,1,bajo,39,1,presencial,1,91.77,Excelente
+20101,19.0,55.3,alta,12,91.27,Si,Medio,22,7,híbrido,1,98.51,Excelente
+20102,42.0,88.4,1,16,,No,Alto,11,1,híbrido,1,95.91,Excelente
+20103,9.0,95.8,alta,2,58.46,NO,Alto,41,4,híbrido,0,72.81,Suficiente
+20104,30.0,77.3,2,15,93.84,Si,Alto,15,7,Presencial,0,92.26,Excelente
+20105,,65.6,media,7,,0,MEDIO,42,4,en línea,0,75.08,Bueno
+20106,,69.9,media,16,98.34,NO,bajo,20,5,híbrido,0,94.87,Excelente
+20107,33.0,52.8,media,15,54.65,1,,35,7,híbrido,0,62.79,Suficiente
+20108,39.0,82.7,ALTA,13,36.33,NO,MEDIO,11,1,en línea,0,70.53,Suficiente
+20109,29.0,86.0,Baja,17,37.8,NO,bajo,36,5,EN LÍNEA,1,59.78,Reprobado
+20110,30.0,38.8,Baja,11,60.05,No,Bajo,9,2,Presencial,0,73.88,Suficiente
+20111,26.0,54.1,1,6,39.66,No,,19,4,en línea,0,49.13,Reprobado
+20112,33.0,50.1,1,0,94.69,si,MEDIO,28,4,EN LÍNEA,1,82.41,Bueno
+20113,32.0,89.9,Media,16,48.07,NO,Bajo,44,4,presencial,0,61.22,Suficiente
+20114,23.0,90.7,alta,19,80.84,No,MEDIO,17,3,EN LÍNEA,1,79.41,Bueno
+20115,26.0,88.9,ALTA,17,66.8,No,Medio,32,2,Presencial,1,91.35,Excelente
+20116,22.0,90.0,media,6,93.96,Si,Alto,6,1,presencial,1,95.71,Excelente
+20117,,88.5,Alta,18,69.73,si,Alto,9,1,presencial,0,85.82,Bueno
+20118,3.0,61.1,alta,8,98.96,1,Alto,17,7,Presencial,1,84.11,Bueno
+20119,31.0,76.3,media,17,35.7,NO,Bajo,35,7,híbrido,0,68.28,Suficiente
+20120,11.0,36.6,Alta,1,76.58,Si,Alto,36,6,presencial,0,64.18,Suficiente
+20121,7.0,66.0,ALTA,18,73.04,0,bajo,23,3,en línea,1,53.53,Reprobado
+20122,34.0,82.2,alta,1,77.34,1,MEDIO,7,2,EN LÍNEA,0,87.17,Bueno
+20123,48.0,48.9,Baja,11,52.2,si,bajo,27,3,presencial,1,82.16,Bueno
+20124,24.0,53.9,Baja,4,36.2,Si,MEDIO,19,3,EN LÍNEA,0,53.03,Reprobado
+20125,21.0,81.7,Media,8,45.0,si,bajo,20,0,en línea,1,58.11,Reprobado
+20126,,44.1,1,12,90.28,0,Bajo,32,3,presencial,0,91.9,Excelente
+20127,47.0,42.5,Media,19,,1,Bajo,19,0,EN LÍNEA,0,100.0,Excelente
+20128,,47.1,1,0,45.65,0,bajo,30,0,presencial,0,54.46,Reprobado
+20129,5.0,55.8,Media,10,31.99,1,MEDIO,2,7,presencial,0,42.6,Reprobado
+20130,23.0,93.1,ALTA,15,,NO,MEDIO,16,7,EN LÍNEA,0,75.1,Bueno
+20131,12.0,79.5,0,7,45.38,1,Bajo,42,3,EN LÍNEA,0,55.63,Reprobado
+20132,34.0,87.1,ALTA,15,64.52,si,Bajo,31,4,Presencial,0,88.79,Bueno
+20133,47.0,91.6,Alta,10,60.73,Si,bajo,23,7,EN LÍNEA,0,80.77,Bueno
+20134,13.0,57.0,1,4,76.5,,Bajo,35,4,EN LÍNEA,0,63.13,Suficiente
+20135,8.0,87.0,Media,15,54.62,No,Medio,45,5,Presencial,1,58.44,Reprobado
+20136,3.0,50.2,ALTA,3,60.6,0,Alto,38,4,presencial,0,40.49,Reprobado
+20137,10.0,97.7,1,6,88.05,1,Alto,14,5,en línea,1,76.43,Bueno
+20138,35.0,67.7,media,10,51.98,0,Medio,43,3,presencial,0,67.18,Suficiente
+20139,7.0,88.9,alta,10,43.08,NO,Medio,11,2,en línea,1,46.11,Reprobado
+20140,,87.4,Media,15,56.84,si,Bajo,8,1,EN LÍNEA,1,56.47,Reprobado
+20141,15.0,95.5,0,3,48.42,No,Medio,30,4,híbrido,0,65.6,Suficiente
+20142,,71.1,0,9,93.3,,MEDIO,2,0,EN LÍNEA,1,100.0,Excelente
+20143,18.0,89.4,1,3,30.76,No,MEDIO,12,4,presencial,1,49.66,Reprobado
+20144,6.0,97.1,1,13,87.72,Si,Bajo,20,3,Presencial,0,67.01,Suficiente
+20145,1.0,51.6,2,11,47.01,si,Medio,31,2,Presencial,1,40.33,Reprobado
+20146,30.0,35.5,1,17,49.06,NO,Medio,19,0,EN LÍNEA,0,63.37,Suficiente
+20147,9.0,41.7,media,1,37.56,No,Bajo,5,5,en línea,0,38.77,Reprobado
+20148,43.0,54.4,0,5,66.5,1,Alto,30,4,presencial,0,91.95,Excelente
+20149,42.0,52.8,Media,11,,Si,Alto,44,3,en línea,1,60.02,Suficiente
+20150,34.0,36.9,0,2,60.58,0,MEDIO,28,4,EN LÍNEA,0,58.71,Reprobado
+20151,,92.4,ALTA,10,81.31,0,bajo,28,5,Presencial,0,84.53,Bueno
+20152,40.0,72.1,Baja,8,,No,,46,4,híbrido,0,92.7,Excelente
+20153,34.0,89.6,alta,12,39.25,Si,Alto,30,4,híbrido,1,82.27,Bueno
+20154,39.0,32.3,0,1,53.71,si,Alto,44,2,presencial,1,78.86,Bueno
+20155,7.0,55.7,media,13,85.2,si,Alto,44,1,presencial,0,70.34,Suficiente
+20156,43.0,58.2,Media,17,40.13,NO,Alto,0,4,Presencial,0,76.67,Bueno
+20157,31.0,54.8,alta,18,44.89,Si,Bajo,43,7,presencial,0,50.06,Reprobado
+20158,11.0,91.7,alta,8,43.05,0,Alto,4,6,presencial,0,71.52,Suficiente
+20159,34.0,63.7,media,1,94.81,No,bajo,19,1,EN LÍNEA,1,96.67,Excelente
+20160,1.0,61.8,alta,9,32.26,,MEDIO,44,4,híbrido,0,37.02,Reprobado
+20161,2.0,99.3,2,1,37.68,0,MEDIO,2,0,híbrido,1,38.21,Reprobado
+20162,24.0,51.2,alta,4,99.15,NO,,6,2,Presencial,0,92.75,Excelente
+20163,35.0,49.0,0,4,80.36,0,Alto,47,6,en línea,1,85.39,Bueno
+20164,41.0,49.0,1,4,79.68,si,bajo,41,2,híbrido,0,85.49,Bueno
+20165,,33.0,1,13,49.85,No,Alto,6,0,híbrido,0,75.28,Bueno
+20166,44.0,85.9,Media,7,74.37,No,Medio,42,3,Presencial,0,100.0,Excelente
+20167,20.0,52.3,media,1,62.28,1,Alto,46,2,Presencial,1,64.41,Suficiente
+20168,,99.9,1,8,52.57,si,Medio,23,7,Presencial,1,59.19,Reprobado
+20169,9.0,34.8,Baja,3,34.92,NO,Alto,4,4,en línea,0,39.13,Reprobado
+20170,25.0,69.4,Alta,8,99.72,Si,Alto,8,5,presencial,1,92.23,Excelente
+20171,4.0,75.9,alta,8,35.12,1,Medio,45,6,presencial,0,55.64,Reprobado
+20172,0.0,75.3,Media,4,66.2,Si,,38,1,en línea,1,50.22,Reprobado
+20173,16.0,49.9,media,13,65.72,si,bajo,31,0,presencial,0,53.94,Reprobado
+20174,13.0,68.6,1,7,81.07,0,,20,3,EN LÍNEA,0,88.01,Bueno
+20175,,90.9,media,17,42.56,1,bajo,14,4,en línea,0,62.74,Suficiente
+20176,45.0,34.4,media,19,91.2,si,Bajo,26,2,en línea,0,96.26,Excelente
+20177,49.0,55.0,0,9,85.07,0,MEDIO,21,3,presencial,0,84.33,Bueno
+20178,48.0,67.0,Baja,9,70.71,NO,bajo,47,0,EN LÍNEA,1,100.0,Excelente
+20179,10.0,80.6,1,11,,0,Bajo,35,7,EN LÍNEA,1,71.89,Suficiente
+20180,31.0,47.5,Alta,14,54.21,0,bajo,36,4,EN LÍNEA,0,64.03,Suficiente
+20181,39.0,86.9,Media,18,35.96,0,Bajo,19,3,Presencial,0,77.19,Bueno
+20182,35.0,75.1,1,10,45.36,si,Medio,27,3,Presencial,0,53.82,Reprobado
+20183,43.0,36.7,media,16,,Si,bajo,29,4,EN LÍNEA,1,87.87,Bueno
+20184,11.0,76.1,Baja,6,31.85,,Medio,35,6,EN LÍNEA,1,46.91,Reprobado
+20185,15.0,78.3,0,7,39.07,si,bajo,1,7,EN LÍNEA,1,44.5,Reprobado
+20186,,77.9,media,1,90.92,si,bajo,41,2,híbrido,0,72.08,Suficiente
+20187,35.0,72.8,2,12,87.55,si,MEDIO,13,5,Presencial,1,95.78,Excelente
+20188,4.0,83.1,1,19,85.62,1,bajo,39,6,presencial,0,64.6,Suficiente
+20189,2.0,58.1,1,19,67.93,,Bajo,2,6,híbrido,0,38.45,Reprobado
+20190,31.0,44.9,2,12,86.91,No,Bajo,11,2,presencial,0,85.84,Bueno
+20191,39.0,92.3,Alta,15,68.6,0,Bajo,22,7,Presencial,0,89.36,Bueno
+20192,15.0,67.9,Baja,0,60.67,0,bajo,28,0,en línea,0,62.04,Suficiente
+20193,32.0,45.9,2,5,97.98,si,,24,1,híbrido,0,89.02,Bueno
+20194,19.0,61.9,Alta,2,98.62,1,,4,6,presencial,0,83.27,Bueno
+20195,27.0,89.9,Baja,8,45.4,No,MEDIO,29,6,presencial,1,69.49,Suficiente
+20196,21.0,41.8,Media,5,49.33,Si,MEDIO,33,2,en línea,0,52.73,Reprobado
+20197,46.0,87.4,0,14,,si,MEDIO,23,5,híbrido,0,97.0,Excelente
+20198,3.0,39.2,Alta,12,31.39,No,Bajo,17,7,EN LÍNEA,1,13.81,Reprobado
+20199,40.0,82.1,alta,16,76.5,No,Bajo,33,2,híbrido,1,95.85,Excelente
+20200,32.0,92.9,2,14,82.0,0,bajo,47,0,en línea,0,98.83,Excelente
+20201,6.0,68.7,Alta,15,38.51,NO,Alto,45,3,híbrido,0,30.65,Reprobado
+20202,48.0,32.1,ALTA,4,92.93,No,Medio,16,3,Presencial,1,94.31,Excelente
+20203,5.0,51.1,Alta,1,41.4,Si,Alto,38,3,en línea,0,34.15,Reprobado
+20204,24.0,38.3,1,17,74.75,1,Medio,0,2,EN LÍNEA,1,70.4,Suficiente
+20205,40.0,85.2,Media,2,87.23,,Medio,27,5,en línea,0,100.0,Excelente
+20206,4.0,82.5,ALTA,12,63.96,No,Alto,14,1,en línea,1,42.26,Reprobado
+20207,25.0,37.3,0,2,,NO,Medio,28,7,Presencial,0,68.09,Suficiente
+20208,9.0,38.8,Alta,15,,No,MEDIO,19,0,en línea,0,29.74,Reprobado
+20209,47.0,39.1,0,5,70.05,No,Bajo,13,4,en línea,1,83.66,Bueno
+20210,4.0,54.4,Media,15,57.38,0,MEDIO,31,3,EN LÍNEA,1,46.47,Reprobado
+20211,27.0,41.2,media,12,36.62,No,Bajo,8,1,híbrido,0,45.5,Reprobado
+20212,40.0,63.0,2,13,90.04,NO,Alto,35,0,en línea,0,92.49,Excelente
+20213,9.0,32.1,2,17,32.41,NO,Alto,41,4,híbrido,1,17.3,Reprobado
+20214,35.0,82.5,0,4,84.46,Si,bajo,1,3,en línea,0,90.67,Excelente
+20215,16.0,65.9,alta,6,83.79,1,Medio,42,4,Presencial,0,96.28,Excelente
+20216,23.0,82.7,2,5,30.23,si,MEDIO,24,4,Presencial,0,40.56,Reprobado
+20217,48.0,63.4,Alta,1,40.17,Si,Alto,36,4,EN LÍNEA,1,67.48,Suficiente
+20218,10.0,34.6,2,3,78.14,Si,Bajo,13,0,presencial,1,65.2,Suficiente
+20219,2.0,46.2,media,19,61.52,0,MEDIO,33,2,híbrido,0,36.82,Reprobado
+20220,38.0,35.0,Alta,5,71.15,0,Bajo,37,2,en línea,0,93.42,Excelente
+20221,6.0,40.4,Alta,12,49.43,NO,Alto,3,0,híbrido,0,44.46,Reprobado
+20222,22.0,74.2,Baja,14,47.29,No,MEDIO,25,1,en línea,1,39.55,Reprobado
+20223,9.0,82.1,Media,11,69.53,,bajo,24,6,híbrido,0,72.54,Suficiente
+20224,,36.2,0,5,,1,,42,1,EN LÍNEA,0,69.11,Suficiente
+20225,36.0,31.8,ALTA,0,30.58,No,MEDIO,47,2,híbrido,1,63.49,Suficiente
+20226,41.0,80.9,Alta,10,47.66,0,bajo,47,4,Presencial,1,92.41,Excelente
+20227,10.0,46.8,ALTA,4,46.78,Si,bajo,4,7,EN LÍNEA,0,50.04,Reprobado
+20228,29.0,93.4,Baja,6,,0,,46,0,presencial,0,86.62,Bueno
+20229,0.0,52.4,Baja,0,80.03,No,Bajo,37,0,EN LÍNEA,0,54.56,Reprobado
+20230,23.0,53.5,alta,15,34.77,Si,Medio,21,3,en línea,0,52.67,Reprobado
+20231,40.0,36.0,Alta,0,32.84,,Bajo,19,7,híbrido,0,65.42,Suficiente
+20232,8.0,89.7,Media,10,60.81,0,Alto,7,6,presencial,0,53.44,Reprobado
+20233,16.0,77.6,media,9,56.75,NO,MEDIO,6,0,en línea,0,53.2,Reprobado
+20234,9.0,54.4,ALTA,1,85.33,si,,44,3,presencial,0,63.77,Suficiente
+20235,,88.0,media,18,,No,MEDIO,6,4,en línea,0,95.63,Excelente
+20236,15.0,90.4,media,17,62.57,Si,,27,6,Presencial,0,69.03,Suficiente
+20237,23.0,69.8,0,9,44.62,1,Alto,27,2,en línea,1,61.17,Suficiente
+20238,30.0,34.6,1,3,50.51,No,MEDIO,28,6,híbrido,0,69.02,Suficiente
+20239,39.0,73.3,Baja,19,83.69,1,MEDIO,40,7,híbrido,0,91.24,Excelente
+20240,30.0,86.8,ALTA,8,37.57,Si,MEDIO,23,2,presencial,1,63.4,Suficiente
+20241,48.0,84.3,Baja,2,64.34,Si,,6,6,en línea,1,100.0,Excelente
+20242,11.0,80.9,media,11,93.74,0,MEDIO,17,0,presencial,0,76.05,Bueno
+20243,27.0,59.1,ALTA,13,43.98,si,bajo,13,7,Presencial,1,65.93,Suficiente
+20244,21.0,46.6,1,9,30.37,si,Alto,24,1,híbrido,0,53.59,Reprobado
+20245,9.0,55.1,Alta,8,64.04,NO,MEDIO,36,0,en línea,1,40.12,Reprobado
+20246,4.0,90.5,ALTA,19,53.55,Si,MEDIO,34,0,en línea,0,60.27,Suficiente
+20247,,48.2,Media,4,80.07,,,43,4,en línea,1,100.0,Excelente
+20248,30.0,65.1,Media,1,88.65,si,MEDIO,10,4,en línea,1,100.0,Excelente
+20249,2.0,65.8,media,9,,,Medio,2,5,EN LÍNEA,1,38.26,Reprobado
+20250,41.0,36.8,0,11,,,bajo,34,7,en línea,0,64.24,Suficiente
+20251,4.0,63.5,ALTA,17,31.82,1,Medio,44,5,en línea,0,32.96,Reprobado
+20252,34.0,78.7,Baja,17,,Si,Medio,24,0,presencial,1,87.86,Bueno
+20253,,89.6,alta,9,69.49,NO,Medio,3,0,presencial,1,59.67,Reprobado
+20254,29.0,37.2,1,0,64.19,0,Medio,0,2,presencial,0,76.17,Bueno
+20255,48.0,73.2,1,7,46.7,0,Bajo,38,7,presencial,0,65.85,Suficiente
+20256,47.0,98.7,Alta,17,71.51,0,MEDIO,11,2,Presencial,1,97.84,Excelente
+20257,27.0,48.1,media,16,,No,MEDIO,28,7,Presencial,0,81.24,Bueno
+20258,18.0,83.3,2,8,87.86,si,MEDIO,4,7,en línea,1,75.49,Bueno
+20259,38.0,35.3,alta,6,,0,Bajo,32,3,Presencial,0,69.39,Suficiente
+20260,8.0,63.0,alta,2,89.21,0,bajo,17,7,en línea,0,65.36,Suficiente
+20261,9.0,99.4,1,3,84.97,1,Alto,8,5,Presencial,0,75.1,Bueno
+20262,13.0,58.3,1,14,88.13,NO,,13,6,presencial,0,70.77,Suficiente
+20263,45.0,80.1,0,11,41.07,1,Bajo,26,5,en línea,0,71.35,Suficiente
+20264,,57.8,alta,15,42.87,1,bajo,17,6,híbrido,1,68.49,Suficiente
+20265,26.0,76.1,alta,2,88.6,1,Bajo,22,5,EN LÍNEA,0,98.48,Excelente
+20266,,51.3,ALTA,19,69.51,NO,Alto,37,3,EN LÍNEA,0,70.55,Suficiente
+20267,45.0,57.6,Media,3,74.72,Si,Medio,23,4,Presencial,1,97.21,Excelente
+20268,16.0,57.4,alta,9,64.03,,Bajo,22,1,híbrido,1,64.97,Suficiente
+20269,17.0,61.3,1,7,79.66,No,Medio,24,1,en línea,1,70.26,Suficiente
+20270,38.0,63.3,2,6,69.92,No,Alto,30,3,presencial,0,81.98,Bueno
+20271,32.0,82.4,1,18,37.09,si,,42,2,Presencial,1,51.03,Reprobado
+20272,12.0,59.5,0,16,49.3,si,MEDIO,4,6,EN LÍNEA,0,45.84,Reprobado
+20273,30.0,36.6,Alta,14,94.43,si,Bajo,21,3,en línea,1,99.99,Excelente
+20274,40.0,74.2,1,18,61.33,si,MEDIO,35,7,Presencial,0,77.25,Bueno
+20275,34.0,99.3,Baja,16,,,,10,5,en línea,0,63.45,Suficiente
+20276,39.0,76.8,2,9,55.57,Si,Bajo,6,6,en línea,0,83.12,Bueno
+20277,11.0,48.6,ALTA,5,,si,,16,0,en línea,0,24.99,Reprobado
+20278,24.0,64.6,0,5,74.9,NO,Medio,1,7,Presencial,0,90.46,Excelente
+20279,18.0,34.5,Baja,5,,,,19,0,en línea,1,65.24,Suficiente
+20280,46.0,72.0,Media,12,37.83,si,Medio,5,3,presencial,0,71.53,Suficiente
+20281,24.0,92.4,alta,19,92.03,0,bajo,47,5,EN LÍNEA,1,82.92,Bueno
+20282,48.0,98.5,ALTA,17,54.37,1,Alto,22,6,EN LÍNEA,0,82.59,Bueno
+20283,35.0,54.4,Media,3,79.28,NO,Medio,30,7,Presencial,0,88.85,Bueno
+20284,30.0,41.3,0,1,61.61,1,Bajo,18,6,EN LÍNEA,0,73.87,Suficiente
+20285,14.0,66.2,0,16,98.14,1,Bajo,9,1,EN LÍNEA,0,57.41,Reprobado
+20286,17.0,94.2,media,8,75.24,No,bajo,2,4,presencial,0,84.4,Bueno
+20287,26.0,88.0,Media,6,97.88,NO,bajo,41,6,Presencial,1,100.0,Excelente
+20288,46.0,92.7,alta,9,86.01,1,Bajo,12,5,en línea,0,100.0,Excelente
+20289,26.0,55.8,Media,2,71.11,si,Bajo,4,5,presencial,0,67.99,Suficiente
+20290,15.0,64.7,1,14,74.23,No,Medio,1,1,híbrido,1,59.65,Reprobado
+20291,36.0,91.6,Media,2,78.8,Si,,19,6,híbrido,0,100.0,Excelente
+20292,40.0,76.7,0,9,76.84,No,Bajo,15,5,en línea,0,89.16,Bueno
+20293,43.0,97.0,1,9,35.74,Si,bajo,35,1,híbrido,1,75.04,Bueno
+20294,17.0,60.2,Media,5,73.23,Si,Alto,10,2,Presencial,1,61.4,Suficiente
+20295,7.0,63.9,0,15,50.69,si,bajo,36,4,híbrido,1,42.65,Reprobado
+20296,15.0,90.8,ALTA,10,55.31,NO,bajo,1,6,en línea,1,78.75,Bueno
+20297,,49.7,ALTA,8,35.47,NO,bajo,26,5,en línea,1,74.2,Suficiente
+20298,26.0,98.0,alta,11,83.32,No,,46,1,Presencial,0,92.97,Excelente
+20299,48.0,82.3,ALTA,19,50.98,Si,Medio,21,7,EN LÍNEA,0,80.76,Bueno
+20300,,51.3,1,4,57.49,NO,Alto,32,7,Presencial,1,75.74,Bueno
+20301,36.0,60.0,ALTA,18,75.96,Si,,0,4,presencial,0,92.29,Excelente
+20302,31.0,77.9,1,4,98.73,,MEDIO,43,1,híbrido,1,100.0,Excelente
+20303,5.0,40.4,2,13,33.04,No,Medio,22,0,EN LÍNEA,0,30.03,Reprobado
+20304,,94.4,alta,19,33.66,1,Alto,25,4,EN LÍNEA,0,57.63,Reprobado
+20305,1.0,39.6,0,3,52.72,si,Bajo,37,5,híbrido,0,46.92,Reprobado
+20306,8.0,72.2,ALTA,19,83.0,,,46,4,EN LÍNEA,1,78.11,Bueno
+20307,45.0,44.6,2,8,92.5,No,Bajo,19,2,presencial,0,99.64,Excelente
+20308,21.0,77.2,media,13,37.34,si,,34,1,Presencial,0,57.35,Reprobado
+20309,33.0,56.7,alta,5,53.76,0,MEDIO,15,0,Presencial,1,63.74,Suficiente
+20310,40.0,39.2,alta,15,53.48,0,Alto,19,0,en línea,0,66.34,Suficiente
+20311,36.0,32.0,Baja,2,47.45,Si,,13,0,híbrido,0,68.34,Suficiente
+20312,4.0,79.1,Alta,8,79.92,,bajo,7,1,híbrido,1,63.16,Suficiente
+20313,15.0,54.6,ALTA,9,66.12,Si,Medio,38,7,en línea,1,56.93,Reprobado
+20314,21.0,51.3,Media,17,32.23,si,Bajo,40,0,en línea,0,52.46,Reprobado
+20315,47.0,57.9,Media,1,33.18,si,bajo,6,6,presencial,0,58.92,Reprobado
+20316,0.0,50.4,2,7,62.73,NO,bajo,12,6,presencial,1,33.28,Reprobado
+20317,5.0,42.1,Baja,11,48.89,1,Medio,42,0,Presencial,0,24.16,Reprobado
+20318,11.0,91.6,media,12,33.35,Si,bajo,5,6,híbrido,1,34.54,Reprobado
+20319,46.0,88.2,0,4,44.69,,Bajo,16,6,en línea,1,79.38,Bueno
+20320,24.0,46.3,Media,12,36.87,,Medio,19,2,presencial,0,45.06,Reprobado
+20321,43.0,35.1,Alta,3,91.11,No,bajo,14,0,presencial,0,94.13,Excelente
+20322,26.0,88.8,1,0,46.83,No,bajo,36,4,en línea,0,55.89,Reprobado
+20323,9.0,73.9,Alta,12,68.24,1,bajo,30,4,híbrido,0,60.33,Suficiente
+20324,5.0,49.3,Media,11,33.57,No,Medio,2,6,EN LÍNEA,0,39.44,Reprobado
+20325,46.0,40.7,1,4,84.62,0,bajo,41,5,EN LÍNEA,1,82.94,Bueno
+20326,5.0,45.6,ALTA,10,34.29,NO,Bajo,43,0,en línea,0,24.74,Reprobado
+20327,,83.0,media,2,44.06,Si,Bajo,47,1,Presencial,0,48.69,Reprobado
+20328,36.0,44.1,Baja,9,76.65,NO,MEDIO,47,7,híbrido,1,70.68,Suficiente
+20329,17.0,83.2,alta,7,98.27,No,Alto,25,5,presencial,1,91.57,Excelente
+20330,7.0,48.5,1,18,44.42,NO,MEDIO,34,1,presencial,0,39.28,Reprobado
+20331,35.0,68.2,1,17,33.68,si,Medio,44,7,en línea,1,55.6,Reprobado
+20332,49.0,48.0,media,10,57.11,Si,,34,5,en línea,0,91.01,Excelente
+20333,35.0,87.1,alta,2,,Si,Medio,19,3,en línea,1,93.38,Excelente
+20334,6.0,99.2,Alta,12,78.43,0,,19,4,presencial,0,54.67,Reprobado
+20335,36.0,92.9,Baja,16,89.17,1,Alto,26,2,presencial,0,97.44,Excelente
+20336,22.0,92.8,Media,12,60.31,si,Medio,23,2,híbrido,1,61.36,Suficiente
+20337,7.0,61.1,Baja,5,78.9,No,Bajo,26,2,presencial,1,62.4,Suficiente
+20338,22.0,81.6,2,15,44.24,No,Alto,43,4,híbrido,1,64.06,Suficiente
+20339,44.0,56.8,Media,19,95.07,NO,Bajo,34,2,en línea,1,100.0,Excelente
+20340,5.0,86.2,alta,13,56.29,1,MEDIO,20,5,híbrido,0,47.55,Reprobado
+20341,19.0,30.6,Media,15,40.03,0,MEDIO,46,5,Presencial,1,26.75,Reprobado
+20342,,36.4,Baja,7,56.62,No,Bajo,33,1,presencial,1,83.23,Bueno
+20343,26.0,31.0,Baja,8,42.09,NO,bajo,37,4,híbrido,0,46.41,Reprobado
+20344,1.0,84.5,alta,13,53.64,,bajo,20,2,EN LÍNEA,0,48.52,Reprobado
+20345,,75.0,1,3,84.16,NO,Alto,32,0,EN LÍNEA,0,80.03,Bueno
+20346,7.0,62.8,1,3,37.36,NO,MEDIO,0,3,EN LÍNEA,1,43.77,Reprobado
+20347,28.0,93.5,1,14,35.31,0,Alto,33,0,EN LÍNEA,1,49.3,Reprobado
+20348,5.0,93.1,alta,15,40.43,si,Bajo,46,4,Presencial,1,46.65,Reprobado
+20349,25.0,93.2,2,0,60.02,1,,36,1,presencial,1,69.56,Suficiente
+20350,20.0,50.0,2,5,40.07,NO,MEDIO,7,5,Presencial,0,53.21,Reprobado
+20351,28.0,82.7,ALTA,4,83.53,No,,16,0,EN LÍNEA,1,89.11,Bueno
+20352,27.0,34.3,ALTA,0,,No,Bajo,33,2,Presencial,0,94.99,Excelente
+20353,25.0,83.6,Baja,13,94.12,0,Medio,8,0,EN LÍNEA,1,84.91,Bueno
+20354,16.0,79.8,ALTA,4,96.1,si,Bajo,31,6,presencial,0,88.2,Bueno
+20355,35.0,86.4,ALTA,15,56.76,,Alto,12,0,presencial,1,96.57,Excelente
+20356,,39.9,Alta,6,68.81,,Medio,0,1,Presencial,1,100.0,Excelente
+20357,6.0,51.4,Alta,11,,0,bajo,36,7,EN LÍNEA,1,64.19,Suficiente
+20358,,46.0,0,6,76.04,No,Medio,11,7,híbrido,0,77.78,Bueno
+20359,17.0,61.3,Baja,11,32.99,0,Bajo,8,7,Presencial,1,38.96,Reprobado
+20360,30.0,33.2,1,2,66.57,si,,31,1,Presencial,1,67.0,Suficiente
+20361,49.0,35.3,Baja,2,66.92,1,bajo,19,7,presencial,1,79.08,Bueno
+20362,33.0,96.2,Media,9,55.2,Si,,4,2,presencial,0,77.19,Bueno
+20363,47.0,99.7,0,3,53.75,1,Alto,43,4,EN LÍNEA,0,92.1,Excelente
+20364,20.0,40.9,ALTA,4,63.39,si,Alto,30,0,híbrido,1,57.48,Reprobado
+20365,32.0,95.1,0,16,,1,Medio,3,6,presencial,1,68.03,Suficiente
+20366,21.0,69.1,0,16,85.76,Si,Medio,28,4,híbrido,0,85.19,Bueno
+20367,4.0,70.7,2,19,,,bajo,9,1,EN LÍNEA,1,52.54,Reprobado
+20368,35.0,86.8,Alta,16,,si,MEDIO,8,4,Presencial,0,100.0,Excelente
+20369,18.0,65.4,media,1,45.84,No,Medio,25,3,presencial,1,75.68,Bueno
+20370,44.0,74.2,Baja,1,69.41,No,Alto,1,2,EN LÍNEA,0,81.99,Bueno
+20371,,89.5,alta,5,58.15,No,Bajo,2,0,híbrido,0,53.33,Reprobado
+20372,3.0,66.2,1,10,64.18,No,,39,1,híbrido,1,50.71,Reprobado
+20373,39.0,86.9,media,18,77.65,si,MEDIO,2,0,en línea,0,85.52,Bueno
+20374,11.0,30.0,alta,10,67.32,,Alto,20,0,híbrido,0,52.46,Reprobado
+20375,1.0,94.5,ALTA,13,61.8,0,bajo,31,1,híbrido,1,54.72,Reprobado
+20376,30.0,80.5,Baja,6,82.64,0,Alto,8,5,en línea,0,79.01,Bueno
+20377,41.0,44.0,alta,11,91.97,0,Medio,9,5,presencial,1,82.62,Bueno
+20378,,91.2,1,13,37.83,1,bajo,21,2,en línea,1,72.44,Suficiente
+20379,3.0,76.5,2,11,81.37,No,MEDIO,24,7,Presencial,0,64.66,Suficiente
+20380,32.0,50.2,2,0,33.41,No,,2,0,presencial,0,54.61,Reprobado
+20381,24.0,74.0,Alta,11,42.06,0,Alto,24,3,híbrido,1,65.8,Suficiente
+20382,45.0,99.4,0,0,56.25,1,Alto,22,5,en línea,0,100.0,Excelente
+20383,9.0,76.7,2,17,33.9,si,,28,2,híbrido,0,34.78,Reprobado
+20384,39.0,76.1,Alta,11,39.42,Si,Alto,17,1,en línea,0,82.98,Bueno
+20385,37.0,30.8,Media,13,,si,Alto,46,5,Presencial,0,83.46,Bueno
+20386,11.0,72.5,2,16,51.84,1,Alto,29,5,Presencial,0,56.76,Reprobado
+20387,49.0,55.5,Baja,12,53.37,si,bajo,25,0,presencial,0,96.41,Excelente
+20388,11.0,56.5,Media,0,93.74,NO,MEDIO,6,7,EN LÍNEA,1,71.1,Suficiente
+20389,45.0,99.1,alta,8,90.2,Si,bajo,29,7,híbrido,0,100.0,Excelente
+20390,40.0,94.1,Baja,3,73.86,1,Medio,9,6,híbrido,1,100.0,Excelente
+20391,45.0,85.3,alta,8,72.38,1,MEDIO,36,1,en línea,0,93.18,Excelente
+20392,18.0,62.3,Baja,11,,No,Bajo,43,4,en línea,1,69.69,Suficiente
+20393,1.0,50.0,media,18,66.81,NO,Alto,38,2,en línea,0,49.08,Reprobado
+20394,34.0,51.9,Alta,10,38.7,NO,MEDIO,34,2,Presencial,1,57.65,Reprobado
+20395,38.0,88.6,media,16,47.2,No,,2,0,EN LÍNEA,1,84.17,Bueno
+20396,40.0,35.3,1,10,,0,MEDIO,3,2,Presencial,0,72.19,Suficiente
+20397,28.0,32.6,ALTA,11,30.54,0,MEDIO,36,2,EN LÍNEA,0,47.8,Reprobado
+20398,,56.3,2,6,38.37,Si,Medio,42,0,híbrido,1,38.78,Reprobado
+20399,31.0,32.6,media,13,42.58,No,Medio,46,5,híbrido,0,60.45,Suficiente
+20400,7.0,65.2,ALTA,1,55.75,Si,MEDIO,46,6,en línea,1,60.63,Suficiente
+20401,,98.4,Alta,14,50.37,NO,,20,2,híbrido,1,70.08,Suficiente
+20402,25.0,80.0,1,14,,No,,42,2,en línea,1,69.0,Suficiente
+20403,4.0,47.3,ALTA,18,89.9,1,bajo,10,3,EN LÍNEA,0,52.64,Reprobado
+20404,34.0,83.7,media,1,45.97,No,Alto,39,0,en línea,1,79.78,Bueno
+20405,3.0,50.4,Alta,19,68.08,NO,bajo,35,7,en línea,1,46.65,Reprobado
+20406,20.0,80.0,ALTA,2,55.65,si,MEDIO,34,3,presencial,1,56.28,Reprobado
+20407,16.0,58.0,0,11,97.12,Si,Bajo,42,7,EN LÍNEA,0,90.04,Excelente
+20408,1.0,33.9,Baja,17,,Si,bajo,18,0,Presencial,0,49.76,Reprobado
+20409,36.0,55.6,media,0,63.96,NO,Bajo,2,3,híbrido,0,81.05,Bueno
+20410,14.0,47.5,0,3,73.53,,Medio,18,6,híbrido,0,54.35,Reprobado
+20411,7.0,89.3,0,3,46.41,Si,Alto,19,0,Presencial,1,39.02,Reprobado
+20412,2.0,39.2,0,1,63.85,No,Medio,11,3,presencial,0,60.25,Suficiente
+20413,10.0,99.3,media,1,84.62,1,Alto,20,2,híbrido,1,74.38,Suficiente
+20414,35.0,38.3,2,13,40.12,Si,MEDIO,3,5,en línea,1,65.92,Suficiente
+20415,13.0,57.6,0,10,52.5,No,Medio,13,4,en línea,0,42.74,Reprobado
+20416,36.0,82.2,0,19,95.06,1,Bajo,5,3,Presencial,1,100.0,Excelente
+20417,16.0,32.1,1,1,38.46,NO,Medio,2,6,híbrido,0,41.76,Reprobado
+20418,36.0,33.8,Media,7,,0,MEDIO,5,7,Presencial,1,71.14,Suficiente
+20419,49.0,30.0,media,8,40.82,Si,MEDIO,39,6,Presencial,0,70.33,Suficiente
+20420,28.0,69.7,media,2,,,bajo,18,2,EN LÍNEA,0,65.41,Suficiente
+20421,,34.2,1,4,60.8,si,bajo,44,5,en línea,1,60.81,Suficiente
+20422,5.0,52.6,2,19,64.14,1,bajo,38,5,en línea,1,62.73,Suficiente
+20423,19.0,62.7,Alta,17,74.45,1,MEDIO,28,1,híbrido,1,78.7,Bueno
+20424,3.0,90.5,ALTA,9,99.39,No,Medio,30,6,presencial,0,99.09,Excelente
+20425,20.0,34.3,ALTA,0,97.19,si,Bajo,47,6,híbrido,0,72.43,Suficiente
+20426,24.0,72.9,media,9,82.24,Si,Alto,2,5,presencial,1,86.87,Bueno
+20427,41.0,71.3,alta,4,94.23,NO,Alto,13,4,EN LÍNEA,0,100.0,Excelente
+20428,32.0,85.2,2,16,97.12,,MEDIO,40,6,presencial,0,100.0,Excelente
+20429,8.0,71.0,alta,17,,No,Alto,0,2,en línea,0,45.54,Reprobado
+20430,11.0,96.1,ALTA,6,76.92,Si,Medio,7,6,Presencial,1,68.32,Suficiente
+20431,16.0,42.9,ALTA,6,49.3,0,,21,5,Presencial,0,49.75,Reprobado
+20432,39.0,45.9,1,5,41.18,0,MEDIO,44,1,EN LÍNEA,1,72.73,Suficiente
+20433,33.0,77.4,0,0,31.42,Si,bajo,37,0,en línea,1,61.44,Suficiente
+20434,13.0,75.7,media,1,73.88,,MEDIO,1,4,híbrido,1,65.95,Suficiente
+20435,40.0,90.9,media,8,79.81,No,MEDIO,29,6,híbrido,1,100.0,Excelente
+20436,24.0,46.3,alta,16,70.06,Si,bajo,45,5,híbrido,0,77.49,Bueno
+20437,14.0,65.9,0,18,66.88,Si,Medio,33,7,presencial,1,59.76,Reprobado
+20438,22.0,34.4,ALTA,18,68.64,si,Medio,16,3,Presencial,0,76.44,Bueno
+20439,7.0,57.9,Baja,11,69.52,si,Bajo,3,5,presencial,0,73.34,Suficiente
+20440,2.0,47.0,1,9,43.58,Si,MEDIO,7,2,en línea,0,36.4,Reprobado
+20441,,89.7,ALTA,4,86.76,Si,Medio,16,5,EN LÍNEA,0,97.64,Excelente
+20442,38.0,56.7,alta,0,,Si,MEDIO,26,4,en línea,0,93.49,Excelente
+20443,46.0,41.2,media,11,,Si,,25,6,Presencial,0,79.21,Bueno
+20444,13.0,32.3,0,7,,NO,MEDIO,47,0,híbrido,1,61.57,Suficiente
+20445,7.0,43.9,alta,11,60.5,No,MEDIO,15,5,Presencial,1,44.7,Reprobado
+20446,11.0,79.1,ALTA,15,49.3,0,Alto,25,1,en línea,1,59.14,Reprobado
+20447,26.0,34.5,media,18,74.03,No,bajo,47,3,presencial,1,68.82,Suficiente
+20448,49.0,89.6,2,18,91.28,No,MEDIO,33,3,Presencial,0,100.0,Excelente
+20449,43.0,34.0,alta,13,75.24,si,Medio,37,0,presencial,0,77.98,Bueno
+20450,11.0,78.6,media,19,50.93,si,MEDIO,23,0,Presencial,0,57.3,Reprobado
+20451,8.0,53.7,ALTA,7,34.02,No,Alto,44,0,presencial,1,37.34,Reprobado
+20452,36.0,49.9,1,8,35.76,Si,bajo,23,4,en línea,1,60.63,Suficiente
+20453,4.0,55.7,0,19,55.0,NO,MEDIO,12,7,Presencial,1,40.72,Reprobado
+20454,5.0,44.3,Alta,6,72.09,No,Bajo,40,2,en línea,0,62.29,Suficiente
+20455,33.0,66.8,ALTA,3,,0,MEDIO,28,5,presencial,0,96.79,Excelente
+20456,49.0,90.9,1,8,61.93,No,bajo,10,7,híbrido,0,95.47,Excelente
+20457,2.0,96.4,1,4,82.39,1,bajo,3,0,Presencial,1,80.93,Bueno
+20458,14.0,70.5,2,2,30.58,NO,Bajo,19,4,presencial,0,54.65,Reprobado
+20459,40.0,32.0,Media,14,73.69,1,bajo,11,7,EN LÍNEA,0,84.87,Bueno
+20460,,80.9,2,19,48.27,1,Medio,18,2,híbrido,1,67.7,Suficiente
+20461,14.0,49.1,Media,16,92.59,Si,Alto,1,6,presencial,0,83.82,Bueno
+20462,26.0,68.0,Baja,13,62.74,si,bajo,13,1,EN LÍNEA,0,83.92,Bueno
+20463,20.0,30.2,Alta,1,,,Alto,4,7,en línea,1,79.93,Bueno
+20464,18.0,68.6,media,4,65.13,Si,Bajo,33,4,Presencial,0,67.09,Suficiente
+20465,0.0,78.6,ALTA,0,60.94,Si,bajo,13,5,EN LÍNEA,1,55.68,Reprobado
+20466,6.0,35.1,ALTA,17,30.91,1,,3,2,Presencial,0,23.88,Reprobado
+20467,,74.4,ALTA,11,74.43,si,Bajo,40,3,presencial,1,72.21,Suficiente
+20468,45.0,49.4,media,0,39.99,si,MEDIO,30,4,en línea,0,67.59,Suficiente
+20469,47.0,49.1,0,7,85.42,si,bajo,29,3,presencial,1,96.64,Excelente
+20470,5.0,52.0,alta,14,75.66,NO,MEDIO,16,2,en línea,0,57.86,Reprobado
+20471,47.0,78.6,2,0,82.64,1,,9,1,presencial,1,100.0,Excelente
+20472,46.0,37.3,media,1,90.04,NO,bajo,4,0,híbrido,0,100.0,Excelente
+20473,23.0,53.2,ALTA,12,69.04,,Alto,44,3,en línea,0,76.33,Bueno
+20474,30.0,55.5,Alta,17,54.1,1,Bajo,4,1,EN LÍNEA,0,73.12,Suficiente
+20475,,47.0,Media,5,56.12,NO,Alto,44,0,Presencial,1,67.74,Suficiente
+20476,,62.6,2,6,43.9,No,bajo,27,6,presencial,0,45.59,Reprobado
+20477,15.0,68.8,2,16,35.66,NO,Medio,27,5,presencial,0,63.06,Suficiente
+20478,40.0,94.1,Baja,4,90.15,NO,Bajo,9,0,Presencial,0,100.0,Excelente
+20479,10.0,50.2,0,12,62.14,1,bajo,12,5,EN LÍNEA,0,57.12,Reprobado
+20480,18.0,70.3,ALTA,1,45.41,Si,Medio,0,0,presencial,1,69.43,Suficiente
+20481,8.0,52.9,0,17,79.96,Si,Alto,6,0,en línea,1,70.55,Suficiente
+20482,16.0,64.5,2,9,72.69,NO,Bajo,7,4,híbrido,1,79.71,Bueno
+20483,35.0,35.1,Alta,12,47.11,No,MEDIO,5,0,híbrido,1,59.06,Reprobado
+20484,1.0,65.6,Media,9,40.38,1,MEDIO,20,1,EN LÍNEA,0,42.29,Reprobado
+20485,26.0,63.2,Baja,16,83.07,1,Alto,47,1,híbrido,0,72.34,Suficiente
+20486,39.0,70.8,2,0,42.96,NO,,10,4,Presencial,1,68.01,Suficiente
+20487,34.0,50.2,Media,4,80.24,NO,Bajo,5,7,Presencial,1,100.0,Excelente
+20488,,65.3,media,19,32.42,No,,29,4,híbrido,1,45.5,Reprobado
+20489,,90.7,Baja,6,53.28,NO,MEDIO,2,6,presencial,0,63.32,Suficiente
+20490,9.0,40.1,media,3,55.8,No,bajo,16,2,en línea,0,47.0,Reprobado
+20491,13.0,99.4,2,9,60.63,si,MEDIO,47,4,presencial,1,63.48,Suficiente
+20492,9.0,46.7,alta,6,67.45,0,,13,6,híbrido,0,47.31,Reprobado
+20493,20.0,48.7,Media,19,40.64,si,Bajo,38,0,Presencial,1,52.38,Reprobado
+20494,20.0,97.8,media,10,65.81,si,Medio,9,0,en línea,0,77.32,Bueno
+20495,7.0,53.6,1,17,78.14,0,Alto,8,1,Presencial,0,68.88,Suficiente
+20496,28.0,57.8,0,18,84.16,Si,Medio,0,3,presencial,0,77.47,Bueno
+20497,24.0,76.1,2,14,54.57,Si,Alto,22,5,Presencial,0,67.35,Suficiente
+20498,14.0,64.1,Media,11,63.63,1,MEDIO,47,5,híbrido,1,56.36,Reprobado
+20499,8.0,60.3,Media,7,,NO,Alto,12,4,en línea,0,63.97,Suficiente
+20500,44.0,62.1,1,10,,1,bajo,40,2,en línea,0,100.0,Excelente
+20501,22.0,78.5,media,17,59.71,si,MEDIO,23,7,híbrido,0,86.63,Bueno
+20502,45.0,84.7,alta,19,36.13,0,Bajo,17,3,en línea,1,72.94,Suficiente
+20503,46.0,36.6,alta,11,56.07,si,Alto,46,6,híbrido,1,80.6,Bueno
+20504,10.0,52.5,Baja,19,99.06,No,Bajo,20,5,presencial,0,74.48,Suficiente
+20505,14.0,36.0,media,6,83.98,NO,Alto,14,6,en línea,0,91.07,Excelente
+20506,5.0,99.4,Media,19,85.71,0,Medio,35,3,presencial,0,69.88,Suficiente
+20507,10.0,83.9,0,17,93.09,si,Bajo,18,1,EN LÍNEA,0,78.03,Bueno
+20508,33.0,67.3,media,16,30.2,Si,bajo,41,0,en línea,1,55.01,Reprobado
+20509,35.0,77.6,media,16,49.52,No,bajo,11,5,presencial,1,74.59,Suficiente
+20510,39.0,43.7,alta,11,70.54,,Alto,31,7,EN LÍNEA,0,82.54,Bueno
+20511,10.0,92.5,alta,17,42.69,Si,MEDIO,4,6,en línea,0,61.34,Suficiente
+20512,0.0,36.7,media,0,46.14,No,MEDIO,41,4,en línea,0,39.63,Reprobado
+20513,18.0,94.2,Alta,12,96.12,1,MEDIO,5,5,Presencial,0,93.77,Excelente
+20514,39.0,74.5,Baja,5,99.37,1,MEDIO,7,1,EN LÍNEA,0,100.0,Excelente
+20515,24.0,88.6,Baja,18,88.4,No,Alto,45,3,presencial,1,100.0,Excelente
+20516,36.0,46.8,Media,6,97.54,No,MEDIO,31,0,EN LÍNEA,1,97.23,Excelente
+20517,34.0,75.6,0,8,77.79,Si,Alto,1,0,híbrido,0,89.8,Bueno
+20518,38.0,72.7,Media,11,33.04,1,Bajo,39,2,híbrido,0,61.62,Suficiente
+20519,,33.6,Baja,15,,Si,Alto,34,5,presencial,1,51.0,Reprobado
+20520,35.0,31.2,Alta,13,84.13,Si,Medio,46,6,Presencial,1,86.71,Bueno
+20521,43.0,91.0,alta,9,,si,Medio,19,5,Presencial,1,100.0,Excelente
+20522,,38.9,2,10,86.19,si,MEDIO,4,1,híbrido,0,96.98,Excelente
+20523,0.0,30.6,0,7,89.74,NO,bajo,35,4,Presencial,1,68.84,Suficiente
+20524,41.0,73.4,Media,8,72.13,1,,6,2,Presencial,0,100.0,Excelente
+20525,,76.6,Baja,9,68.47,1,,25,7,en línea,0,94.26,Excelente
+20526,13.0,61.5,media,16,42.97,NO,bajo,20,3,EN LÍNEA,1,44.57,Reprobado
+20527,42.0,34.8,Media,14,45.65,NO,MEDIO,36,1,en línea,0,67.04,Suficiente
+20528,23.0,94.0,Media,4,76.33,Si,bajo,17,5,EN LÍNEA,0,88.03,Bueno
+20529,25.0,79.4,alta,8,71.06,No,,11,3,híbrido,0,66.89,Suficiente
+20530,47.0,37.0,Alta,11,88.09,0,Bajo,18,5,en línea,1,83.04,Bueno
+20531,14.0,76.0,Media,13,76.15,,bajo,38,7,presencial,1,60.31,Suficiente
+20532,27.0,85.1,0,17,77.11,si,Alto,43,3,presencial,0,93.72,Excelente
+20533,35.0,49.3,Baja,18,36.38,Si,Alto,20,7,en línea,0,47.66,Reprobado
+20534,27.0,52.7,Alta,4,,NO,Bajo,24,3,EN LÍNEA,1,81.79,Bueno
+20535,17.0,81.1,Media,1,99.78,Si,MEDIO,38,5,híbrido,0,83.57,Bueno
+20536,15.0,30.7,Baja,11,52.0,1,MEDIO,28,1,EN LÍNEA,0,59.12,Reprobado
+20537,8.0,85.7,Baja,14,59.84,NO,MEDIO,4,0,EN LÍNEA,0,62.72,Suficiente
+20538,17.0,45.1,Alta,17,66.47,1,Medio,34,5,en línea,1,53.84,Reprobado
+20539,0.0,40.6,2,19,62.11,Si,bajo,29,0,EN LÍNEA,0,50.49,Reprobado
+20540,,43.4,Alta,0,38.27,si,,29,5,híbrido,1,72.44,Suficiente
+20541,28.0,46.1,2,11,70.22,si,,16,7,en línea,0,65.9,Suficiente
+20542,,90.5,alta,17,,NO,MEDIO,37,0,EN LÍNEA,0,94.75,Excelente
+20543,25.0,83.7,Baja,9,70.84,0,Medio,21,3,Presencial,0,82.11,Bueno
+20544,37.0,55.1,media,15,67.32,NO,Bajo,35,0,Presencial,1,83.27,Bueno
+20545,10.0,44.4,media,12,38.59,NO,MEDIO,6,0,híbrido,0,24.42,Reprobado
+20546,9.0,57.6,Baja,19,56.46,Si,Bajo,46,2,en línea,1,48.81,Reprobado
+20547,8.0,44.3,ALTA,16,86.85,No,Alto,8,7,EN LÍNEA,1,68.04,Suficiente
+20548,3.0,98.6,0,9,98.15,NO,Alto,0,1,Presencial,1,92.01,Excelente
+20549,,91.9,0,7,99.41,Si,Medio,13,6,EN LÍNEA,0,100.0,Excelente
+20550,24.0,70.6,0,17,83.06,si,MEDIO,6,0,EN LÍNEA,1,89.39,Bueno
+20551,20.0,97.5,1,17,58.9,Si,Medio,26,1,EN LÍNEA,0,71.07,Suficiente
+20552,42.0,89.6,2,18,32.22,,Alto,21,3,EN LÍNEA,0,63.58,Suficiente
+20553,,61.2,2,0,64.96,Si,Medio,10,6,EN LÍNEA,0,63.76,Suficiente
+20554,47.0,39.3,Baja,11,48.87,NO,Medio,16,3,en línea,0,92.18,Excelente
+20555,28.0,87.5,media,18,51.82,1,,2,5,presencial,1,74.59,Suficiente
+20556,25.0,45.8,Media,10,65.87,NO,Medio,27,6,híbrido,1,65.31,Suficiente
+20557,44.0,41.7,ALTA,12,45.8,si,,28,5,EN LÍNEA,1,70.91,Suficiente
+20558,39.0,38.0,Media,15,65.12,No,MEDIO,34,0,presencial,1,68.5,Suficiente
+20559,12.0,46.1,0,12,93.31,Si,Alto,37,0,presencial,0,79.45,Bueno
+20560,0.0,60.7,0,1,50.68,No,Medio,23,0,en línea,1,41.39,Reprobado
+20561,36.0,91.2,Baja,19,60.92,si,bajo,14,2,Presencial,0,79.72,Bueno
+20562,29.0,50.4,Media,11,,NO,bajo,5,5,EN LÍNEA,1,60.11,Suficiente
+20563,4.0,31.9,Baja,12,75.6,1,bajo,5,3,Presencial,0,56.17,Reprobado
+20564,29.0,63.7,Baja,7,87.74,Si,Alto,31,1,EN LÍNEA,0,95.73,Excelente
+20565,20.0,60.4,Media,5,97.29,No,Alto,10,1,en línea,1,86.75,Bueno
+20566,19.0,41.9,0,7,74.34,,Alto,18,0,Presencial,1,71.64,Suficiente
+20567,0.0,36.7,0,14,53.73,1,Bajo,24,7,EN LÍNEA,0,41.6,Reprobado
+20568,2.0,56.7,0,9,47.59,1,Bajo,28,1,híbrido,0,52.01,Reprobado
+20569,9.0,68.1,Media,19,,NO,Medio,42,3,híbrido,1,47.63,Reprobado
+20570,13.0,90.0,media,6,54.43,0,bajo,42,1,Presencial,0,48.88,Reprobado
+20571,15.0,61.8,2,5,86.15,si,bajo,19,7,híbrido,0,80.93,Bueno
+20572,34.0,61.2,media,1,85.82,1,MEDIO,24,4,híbrido,1,84.8,Bueno
+20573,27.0,63.7,0,16,89.3,Si,Bajo,35,1,en línea,1,97.28,Excelente
+20574,25.0,82.6,2,10,58.14,Si,MEDIO,17,2,presencial,0,76.23,Bueno
+20575,27.0,98.2,1,9,74.61,NO,Bajo,43,6,EN LÍNEA,1,90.08,Excelente
+20576,46.0,98.2,media,12,40.97,Si,Alto,9,0,Presencial,1,88.14,Bueno
+20577,45.0,88.3,alta,11,73.18,1,Medio,41,6,híbrido,0,100.0,Excelente
+20578,13.0,63.0,media,19,75.14,No,,4,0,Presencial,0,61.57,Suficiente
+20579,29.0,50.0,Alta,5,72.58,No,,19,5,Presencial,0,66.81,Suficiente
+20580,25.0,88.3,2,7,53.47,1,bajo,33,1,presencial,1,84.29,Bueno
+20581,48.0,79.1,media,9,74.96,0,MEDIO,15,5,Presencial,1,92.51,Excelente
+20582,14.0,70.9,0,10,30.07,si,Bajo,28,2,en línea,0,59.29,Reprobado
+20583,4.0,95.5,2,14,60.18,Si,Alto,47,5,en línea,1,57.73,Reprobado
+20584,3.0,30.5,media,14,62.53,No,Alto,34,6,EN LÍNEA,0,47.91,Reprobado
+20585,18.0,63.9,ALTA,7,35.04,No,Bajo,29,4,presencial,0,49.84,Reprobado
+20586,45.0,94.3,ALTA,18,34.41,NO,Bajo,15,3,presencial,0,79.17,Bueno
+20587,47.0,39.2,media,13,88.67,NO,Alto,14,3,en línea,0,100.0,Excelente
+20588,15.0,30.9,Baja,8,77.17,0,Alto,30,0,híbrido,1,62.25,Suficiente
+20589,42.0,62.5,alta,11,74.46,si,MEDIO,42,0,presencial,0,100.0,Excelente
+20590,22.0,32.8,Alta,8,56.48,NO,Medio,39,7,presencial,0,49.96,Reprobado
+20591,29.0,38.0,Alta,14,,NO,Medio,30,1,híbrido,1,47.63,Reprobado
+20592,,31.3,Baja,5,57.32,Si,Medio,31,4,presencial,0,40.83,Reprobado
+20593,26.0,69.2,alta,15,86.88,0,Bajo,31,0,híbrido,0,85.32,Bueno
+20594,47.0,87.9,Media,10,36.12,si,Alto,33,7,Presencial,1,72.96,Suficiente
+20595,35.0,52.8,0,17,91.57,0,MEDIO,10,7,presencial,0,86.36,Bueno
+20596,39.0,81.1,Baja,11,78.28,si,Bajo,35,4,híbrido,0,96.22,Excelente
+20597,10.0,96.4,Alta,10,48.81,Si,Alto,25,0,híbrido,0,65.67,Suficiente
+20598,47.0,39.0,Alta,17,84.08,,Medio,29,1,en línea,0,87.51,Bueno
+20599,11.0,44.1,Media,1,78.8,,MEDIO,23,7,EN LÍNEA,0,76.55,Bueno
+20600,,56.6,2,16,95.66,0,,40,0,híbrido,0,100.0,Excelente
+20601,16.0,35.0,1,5,,0,Alto,19,6,en línea,1,47.92,Reprobado
+20602,48.0,39.7,media,7,51.47,No,MEDIO,1,2,en línea,1,79.03,Bueno
+20603,43.0,69.6,Alta,18,44.68,si,bajo,30,2,en línea,0,71.91,Suficiente
+20604,12.0,74.3,1,3,88.78,No,bajo,34,6,EN LÍNEA,0,75.07,Bueno
+20605,18.0,41.8,media,12,,0,MEDIO,31,3,EN LÍNEA,1,80.17,Bueno
+20606,12.0,31.3,1,13,35.62,si,bajo,29,5,Presencial,0,32.35,Reprobado
+20607,,60.5,Media,9,99.88,0,Medio,8,4,EN LÍNEA,0,99.33,Excelente
+20608,39.0,42.7,0,11,48.57,Si,,22,3,EN LÍNEA,1,73.33,Suficiente
+20609,4.0,68.8,ALTA,16,87.55,Si,bajo,4,5,híbrido,1,75.68,Bueno
+20610,32.0,35.2,alta,15,74.98,NO,Bajo,35,0,EN LÍNEA,1,87.25,Bueno
+20611,34.0,82.8,0,2,91.84,0,MEDIO,25,2,presencial,1,100.0,Excelente
+20612,21.0,65.5,2,10,,NO,bajo,14,5,EN LÍNEA,0,67.05,Suficiente
+20613,16.0,91.8,Media,13,85.8,si,Bajo,34,1,híbrido,0,74.69,Suficiente
+20614,37.0,99.3,alta,16,70.4,1,bajo,33,6,Presencial,1,91.17,Excelente
+20615,16.0,84.2,2,13,,Si,Alto,14,4,Presencial,1,67.59,Suficiente
+20616,30.0,90.3,1,0,78.57,Si,Alto,6,7,EN LÍNEA,0,87.3,Bueno
+20617,28.0,47.7,0,4,33.37,Si,,43,0,EN LÍNEA,0,59.03,Reprobado
+20618,32.0,31.6,Media,19,57.59,NO,Bajo,37,4,Presencial,1,66.16,Suficiente
+20619,0.0,75.0,0,13,38.58,No,bajo,35,5,en línea,1,35.7,Reprobado
+20620,14.0,73.0,Baja,6,81.95,0,,19,6,híbrido,0,67.71,Suficiente
+20621,,48.9,2,8,69.97,No,,19,5,EN LÍNEA,1,86.25,Bueno
+20622,22.0,66.7,media,16,84.1,No,,2,3,presencial,1,63.03,Suficiente
+20623,,54.1,0,18,61.76,1,Bajo,10,6,Presencial,0,92.06,Excelente
+20624,49.0,69.5,ALTA,7,96.0,1,Alto,10,1,híbrido,1,100.0,Excelente
+20625,23.0,85.7,2,0,60.12,No,bajo,31,2,híbrido,0,74.27,Suficiente
+20626,,56.3,Baja,16,66.01,1,Alto,28,6,en línea,0,71.04,Suficiente
+20627,38.0,52.2,0,17,60.79,0,Bajo,24,6,Presencial,0,60.96,Suficiente
+20628,12.0,68.0,Media,18,66.89,NO,,4,7,híbrido,0,51.53,Reprobado
+20629,44.0,69.4,Alta,6,68.32,0,Medio,34,2,híbrido,0,97.3,Excelente
+20630,20.0,96.5,2,13,35.07,,,25,1,híbrido,0,52.99,Reprobado
+20631,28.0,34.3,Alta,8,79.84,Si,Bajo,20,0,presencial,0,85.8,Bueno
+20632,44.0,90.1,Baja,8,69.4,No,Alto,0,2,presencial,0,100.0,Excelente
+20633,25.0,94.0,Alta,9,96.09,0,bajo,40,3,Presencial,1,93.39,Excelente
+20634,41.0,57.4,ALTA,2,,0,bajo,16,0,híbrido,0,68.87,Suficiente
+20635,31.0,47.6,alta,14,34.11,1,bajo,40,3,en línea,0,56.54,Reprobado
+20636,32.0,98.9,2,8,92.3,si,,2,2,híbrido,0,96.93,Excelente
+20637,44.0,37.1,media,12,80.67,Si,Medio,26,1,Presencial,1,89.43,Bueno
+20638,28.0,62.8,Media,15,53.96,Si,Bajo,25,7,híbrido,0,58.61,Reprobado
+20639,28.0,42.1,Media,11,34.28,NO,,39,0,Presencial,1,57.32,Reprobado
+20640,41.0,68.6,2,12,59.27,Si,Medio,15,6,en línea,0,80.76,Bueno
+20641,33.0,67.5,0,13,82.26,,,28,6,presencial,0,77.35,Bueno
+20642,20.0,46.7,0,8,95.06,1,Bajo,20,7,en línea,0,79.8,Bueno
+20643,13.0,31.6,alta,17,73.06,NO,bajo,3,6,en línea,1,63.78,Suficiente
+20644,,94.7,Alta,7,,0,Medio,20,4,en línea,0,87.8,Bueno
+20645,18.0,84.8,alta,0,57.73,Si,MEDIO,37,5,EN LÍNEA,0,61.07,Suficiente
+20646,7.0,69.9,Alta,14,63.27,si,MEDIO,40,3,presencial,1,53.44,Reprobado
+20647,43.0,39.1,Media,0,72.08,NO,Alto,28,1,en línea,0,87.63,Bueno
+20648,49.0,44.5,ALTA,14,76.57,0,Alto,34,5,híbrido,1,96.8,Excelente
+20649,16.0,53.3,Alta,18,74.67,si,Medio,14,2,EN LÍNEA,1,68.71,Suficiente
+20650,11.0,56.3,Media,5,94.17,,,42,5,en línea,0,85.05,Bueno
+20651,40.0,67.0,alta,7,,si,Medio,3,7,presencial,0,68.97,Suficiente
+20652,2.0,53.9,2,6,84.62,0,Medio,24,2,presencial,0,63.75,Suficiente
+20653,11.0,82.9,Alta,13,35.87,NO,MEDIO,42,1,EN LÍNEA,1,47.21,Reprobado
+20654,38.0,81.6,alta,8,36.7,si,MEDIO,19,3,EN LÍNEA,0,62.75,Suficiente
+20655,9.0,37.9,2,16,,,Medio,14,4,híbrido,0,42.76,Reprobado
+20656,13.0,83.7,Media,18,32.25,1,bajo,23,7,EN LÍNEA,0,43.58,Reprobado
+20657,,38.3,ALTA,19,,No,Alto,12,2,Presencial,0,82.37,Bueno
+20658,10.0,53.7,2,6,98.6,Si,Medio,9,0,híbrido,0,88.81,Bueno
+20659,1.0,54.6,0,17,48.46,0,bajo,41,6,Presencial,1,40.38,Reprobado
+20660,3.0,84.0,Media,7,87.01,1,Bajo,10,2,híbrido,1,79.7,Bueno
+20661,24.0,63.9,2,3,62.03,1,MEDIO,27,4,EN LÍNEA,0,72.81,Suficiente
+20662,47.0,58.2,1,14,75.98,1,MEDIO,14,5,Presencial,1,96.48,Excelente
+20663,25.0,72.7,0,7,,No,Alto,19,1,híbrido,1,91.63,Excelente
+20664,28.0,96.3,Alta,19,47.42,Si,Bajo,43,5,EN LÍNEA,0,81.17,Bueno
+20665,20.0,95.4,1,4,73.05,1,bajo,33,4,presencial,0,72.91,Suficiente
+20666,36.0,36.4,Alta,9,,0,,12,7,híbrido,1,94.07,Excelente
+20667,28.0,51.1,1,12,41.9,No,MEDIO,47,6,Presencial,1,72.05,Suficiente
+20668,41.0,40.6,2,1,50.44,si,bajo,38,7,Presencial,0,67.15,Suficiente
+20669,48.0,98.1,alta,5,63.79,No,Bajo,13,5,híbrido,0,96.05,Excelente
+20670,38.0,50.0,alta,17,78.45,si,bajo,0,1,en línea,1,80.86,Bueno
+20671,22.0,48.8,1,12,52.79,Si,MEDIO,11,7,presencial,0,57.35,Reprobado
+20672,30.0,30.9,ALTA,13,51.7,si,Alto,21,3,presencial,0,55.09,Reprobado
+20673,27.0,72.1,ALTA,3,84.95,,Alto,13,0,EN LÍNEA,0,81.43,Bueno
+20674,8.0,48.8,ALTA,2,89.76,No,Bajo,30,5,Presencial,1,75.15,Bueno
+20675,6.0,88.0,alta,16,54.45,1,,42,7,Presencial,1,53.5,Reprobado
+20676,29.0,36.1,2,3,45.57,Si,Bajo,36,0,híbrido,0,53.24,Reprobado
+20677,39.0,68.3,0,13,87.18,No,Medio,31,6,EN LÍNEA,0,100.0,Excelente
+20678,,61.6,media,2,77.08,NO,,36,5,presencial,0,69.58,Suficiente
+20679,23.0,41.8,1,5,58.56,si,Bajo,26,5,en línea,1,56.38,Reprobado
+20680,20.0,63.3,0,15,94.19,Si,Medio,3,0,en línea,1,64.54,Suficiente
+20681,17.0,62.4,Baja,16,95.0,,Medio,8,2,presencial,1,68.46,Suficiente
+20682,39.0,59.7,Media,2,81.75,Si,Medio,6,0,en línea,0,78.07,Bueno
+20683,9.0,44.3,2,0,95.5,si,Alto,19,1,híbrido,0,69.74,Suficiente
+20684,2.0,50.3,Media,9,,1,bajo,12,0,Presencial,0,43.82,Reprobado
+20685,43.0,71.8,1,16,87.4,1,bajo,16,0,EN LÍNEA,0,94.77,Excelente
+20686,14.0,45.2,media,8,68.96,0,Medio,37,1,Presencial,1,66.56,Suficiente
+20687,,45.0,media,5,40.07,si,Bajo,26,7,EN LÍNEA,0,67.87,Suficiente
+20688,15.0,54.2,Alta,18,,si,Medio,21,0,EN LÍNEA,0,67.06,Suficiente
+20689,,64.1,Alta,6,31.42,0,MEDIO,15,6,presencial,0,44.79,Reprobado
+20690,33.0,67.2,1,4,84.61,,MEDIO,36,5,híbrido,1,88.59,Bueno
+20691,0.0,37.7,0,12,72.83,1,Bajo,11,0,EN LÍNEA,0,57.04,Reprobado
+20692,,59.5,media,11,34.93,0,MEDIO,46,6,en línea,1,50.09,Reprobado
+20693,11.0,66.3,2,0,66.1,si,,14,4,EN LÍNEA,1,62.24,Suficiente
+20694,38.0,67.9,ALTA,6,40.41,,MEDIO,34,7,híbrido,0,68.33,Suficiente
+20695,9.0,47.4,Media,4,64.2,1,Bajo,3,1,híbrido,1,52.3,Reprobado
+20696,43.0,79.7,2,0,98.31,0,Alto,18,4,EN LÍNEA,1,100.0,Excelente
+20697,,62.4,media,0,60.72,,Bajo,7,7,EN LÍNEA,0,65.02,Suficiente
+20698,11.0,66.3,Baja,19,42.83,No,Medio,8,6,EN LÍNEA,0,47.42,Reprobado
+20699,23.0,63.0,2,11,,Si,Alto,29,6,híbrido,1,56.9,Reprobado
+20700,29.0,74.0,ALTA,14,33.12,No,Bajo,25,4,híbrido,0,54.18,Reprobado
+20701,5.0,37.0,media,5,39.44,NO,Alto,20,0,Presencial,1,50.01,Reprobado
+20702,41.0,48.7,ALTA,17,35.73,Si,bajo,46,2,híbrido,0,60.33,Suficiente
+20703,28.0,47.6,Baja,12,30.43,si,bajo,45,0,híbrido,0,62.77,Suficiente
+20704,2.0,81.8,Media,8,53.25,No,Medio,3,7,EN LÍNEA,0,52.31,Reprobado
+20705,41.0,55.7,1,8,,1,Bajo,22,7,híbrido,0,83.06,Bueno
+20706,43.0,35.6,Baja,12,89.5,si,Bajo,34,1,Presencial,1,100.0,Excelente
+20707,36.0,72.6,Media,7,37.66,Si,Bajo,5,4,presencial,0,50.35,Reprobado
+20708,28.0,69.2,media,12,80.56,1,Bajo,15,1,EN LÍNEA,0,89.43,Bueno
+20709,45.0,87.0,1,11,88.93,,Medio,12,7,presencial,0,100.0,Excelente
+20710,5.0,37.6,2,19,41.94,Si,Medio,19,1,en línea,1,44.54,Reprobado
+20711,31.0,38.0,0,0,37.32,NO,,5,4,en línea,1,58.34,Reprobado
+20712,41.0,58.1,alta,1,40.67,No,,9,2,EN LÍNEA,0,61.09,Suficiente
+20713,28.0,78.4,alta,17,31.54,,MEDIO,43,1,en línea,0,56.74,Reprobado
+20714,3.0,70.7,ALTA,10,45.63,No,Medio,34,2,EN LÍNEA,0,46.49,Reprobado
+20715,23.0,72.8,alta,7,60.99,No,bajo,44,3,EN LÍNEA,1,64.57,Suficiente
+20716,28.0,45.6,media,5,30.1,0,Medio,16,2,EN LÍNEA,0,42.19,Reprobado
+20717,13.0,65.1,Alta,16,81.07,No,bajo,3,1,Presencial,1,76.56,Bueno
+20718,9.0,76.0,alta,5,30.48,NO,Alto,1,0,EN LÍNEA,0,58.75,Reprobado
+20719,48.0,82.1,Media,16,79.46,si,bajo,29,0,presencial,0,100.0,Excelente
+20720,10.0,91.8,Media,1,57.36,si,,15,7,híbrido,1,70.52,Suficiente
+20721,34.0,70.2,Media,12,42.47,No,Medio,10,0,en línea,0,71.16,Suficiente
+20722,2.0,64.7,2,15,84.34,Si,Alto,15,7,presencial,1,79.46,Bueno
+20723,46.0,88.5,1,3,82.85,Si,MEDIO,34,0,EN LÍNEA,0,100.0,Excelente
+20724,,80.3,0,7,50.55,NO,Bajo,34,5,presencial,1,90.11,Excelente
+20725,11.0,63.1,Alta,3,63.24,0,Alto,27,4,híbrido,1,51.25,Reprobado
+20726,14.0,48.3,ALTA,12,74.45,0,Bajo,46,2,EN LÍNEA,0,66.85,Suficiente
+20727,34.0,33.9,Alta,5,64.74,NO,bajo,2,0,híbrido,0,63.21,Suficiente
+20728,41.0,33.2,ALTA,5,61.08,Si,bajo,11,0,presencial,1,71.68,Suficiente
+20729,25.0,51.5,Media,2,51.71,Si,bajo,39,0,EN LÍNEA,0,73.01,Suficiente
+20730,26.0,89.5,alta,7,85.06,Si,Alto,34,6,EN LÍNEA,1,80.64,Bueno
+20731,11.0,39.1,1,10,42.57,0,Bajo,18,6,en línea,0,40.52,Reprobado
+20732,25.0,41.0,Media,18,75.44,si,bajo,23,4,en línea,0,84.93,Bueno
+20733,18.0,55.7,Alta,13,59.7,1,Alto,33,4,Presencial,1,74.66,Suficiente
+20734,30.0,85.7,Alta,14,89.2,NO,Medio,9,7,Presencial,0,87.68,Bueno
+20735,8.0,83.9,1,15,,Si,MEDIO,22,5,Presencial,0,86.98,Bueno
+20736,8.0,66.8,Baja,9,78.3,NO,MEDIO,27,4,en línea,0,80.83,Bueno
+20737,19.0,90.3,alta,10,85.03,0,Medio,46,7,presencial,0,88.22,Bueno
+20738,23.0,64.0,media,18,76.05,,Medio,29,7,presencial,1,89.58,Bueno
+20739,0.0,30.2,Alta,1,33.93,,,42,6,híbrido,0,30.76,Reprobado
+20740,12.0,42.4,0,11,70.51,0,Bajo,28,3,EN LÍNEA,0,58.25,Reprobado
+20741,17.0,31.2,Media,2,55.23,0,Medio,17,0,en línea,0,64.86,Suficiente
+20742,45.0,39.6,Baja,18,64.81,1,,25,3,presencial,0,74.66,Suficiente
+20743,24.0,34.1,ALTA,12,33.09,NO,bajo,8,0,presencial,0,37.39,Reprobado
+20744,7.0,36.0,1,10,89.18,0,Alto,9,3,presencial,0,54.42,Reprobado
+20745,2.0,44.9,media,15,93.8,Si,Medio,2,7,presencial,1,69.77,Suficiente
+20746,26.0,82.6,ALTA,8,89.67,NO,bajo,24,2,presencial,1,96.01,Excelente
+20747,39.0,77.6,alta,18,71.0,No,Bajo,46,0,en línea,0,94.79,Excelente
+20748,39.0,57.0,ALTA,13,87.75,0,Alto,12,6,en línea,0,83.41,Bueno
+20749,18.0,46.6,ALTA,14,64.27,1,MEDIO,21,4,híbrido,0,70.12,Suficiente
+20750,9.0,85.3,Alta,2,85.77,Si,Alto,46,6,Presencial,0,77.78,Bueno
+20751,7.0,38.7,Alta,3,63.64,Si,Alto,13,4,presencial,0,50.09,Reprobado
+20752,36.0,58.1,alta,8,,Si,bajo,45,5,Presencial,0,85.88,Bueno
+20753,11.0,68.3,Baja,0,52.34,,Medio,3,5,híbrido,1,59.13,Reprobado
+20754,37.0,50.7,alta,13,96.9,,bajo,46,6,híbrido,0,94.69,Excelente
+20755,13.0,37.1,Baja,3,,NO,Alto,0,5,híbrido,0,33.16,Reprobado
+20756,36.0,61.1,1,9,,Si,Alto,12,1,en línea,0,83.03,Bueno
+20757,,67.5,Baja,5,66.93,1,,31,7,EN LÍNEA,0,93.05,Excelente
+20758,8.0,54.0,2,2,74.05,0,Medio,23,2,presencial,0,59.0,Reprobado
+20759,48.0,57.2,alta,17,,No,MEDIO,39,7,en línea,0,82.5,Bueno
+20760,22.0,90.3,media,12,74.29,NO,Alto,31,7,EN LÍNEA,1,85.8,Bueno
+20761,34.0,76.2,Media,6,95.8,0,Medio,21,3,presencial,1,100.0,Excelente
+20762,28.0,93.6,Baja,6,49.77,NO,Alto,36,4,presencial,0,67.2,Suficiente
+20763,27.0,91.5,0,5,80.74,NO,Medio,19,0,Presencial,0,86.41,Bueno
+20764,10.0,85.0,ALTA,1,69.91,si,Bajo,11,7,híbrido,0,56.59,Reprobado
+20765,14.0,94.4,media,12,72.78,0,bajo,18,4,híbrido,1,76.08,Bueno
+20766,14.0,39.1,0,13,62.42,1,bajo,28,5,híbrido,1,54.73,Reprobado
+20767,24.0,82.7,2,8,56.27,,MEDIO,13,2,Presencial,1,58.48,Reprobado
+20768,1.0,32.5,Alta,8,57.69,,bajo,2,6,presencial,0,45.81,Reprobado
+20769,14.0,85.4,0,2,57.19,si,Alto,14,5,híbrido,0,65.89,Suficiente
+20770,,90.0,Alta,19,93.06,NO,bajo,46,6,Presencial,0,100.0,Excelente
+20771,44.0,83.1,ALTA,0,96.63,1,Alto,4,6,híbrido,0,98.79,Excelente
+20772,21.0,92.2,Alta,16,87.89,No,MEDIO,44,4,Presencial,0,91.09,Excelente
+20773,33.0,59.0,1,4,40.76,,,18,0,híbrido,1,73.49,Suficiente
+20774,6.0,83.0,media,7,50.29,0,,2,6,presencial,0,44.33,Reprobado
+20775,34.0,54.8,Media,18,45.88,No,Medio,15,2,híbrido,0,70.13,Suficiente
+20776,25.0,40.9,Baja,5,82.52,0,Medio,13,3,en línea,0,88.92,Bueno
+20777,1.0,53.1,ALTA,12,30.63,1,Alto,13,6,híbrido,0,29.3,Reprobado
+20778,0.0,45.0,0,6,66.21,0,Medio,22,2,híbrido,0,47.97,Reprobado
+20779,41.0,67.5,1,13,76.41,No,Medio,5,2,Presencial,0,83.22,Bueno
+20780,9.0,44.8,media,7,47.7,No,MEDIO,39,6,en línea,1,40.09,Reprobado
+20781,16.0,97.1,Media,3,90.33,Si,Alto,10,5,presencial,1,86.31,Bueno
+20782,2.0,69.0,2,12,,si,Alto,15,0,Presencial,1,34.59,Reprobado
+20783,17.0,30.8,0,10,64.48,si,MEDIO,40,3,presencial,0,67.65,Suficiente
+20784,29.0,90.4,0,0,,Si,Alto,41,6,Presencial,1,68.73,Suficiente
+20785,40.0,78.6,2,14,63.19,NO,MEDIO,6,3,presencial,1,92.26,Excelente
+20786,20.0,59.4,1,10,,NO,Alto,9,4,en línea,0,60.51,Suficiente
+20787,18.0,45.8,2,13,55.08,Si,Alto,16,5,Presencial,1,56.62,Reprobado
+20788,42.0,75.0,1,19,72.05,1,Medio,0,6,en línea,0,100.0,Excelente
+20789,32.0,57.4,media,5,36.95,1,Bajo,26,7,Presencial,0,83.65,Bueno
+20790,14.0,45.2,Baja,7,39.03,1,MEDIO,16,1,EN LÍNEA,0,44.22,Reprobado
+20791,39.0,67.7,alta,7,35.82,1,MEDIO,34,2,Presencial,1,73.76,Suficiente
+20792,43.0,42.3,ALTA,7,64.06,NO,Alto,11,3,presencial,0,88.31,Bueno
+20793,40.0,35.6,1,15,97.95,Si,Medio,15,1,Presencial,0,99.99,Excelente
+20794,1.0,71.3,media,12,39.16,No,bajo,20,7,en línea,0,29.53,Reprobado
+20795,13.0,44.7,Media,11,71.0,Si,Bajo,31,2,Presencial,1,68.34,Suficiente
+20796,35.0,44.9,Baja,8,52.51,NO,bajo,27,4,en línea,0,73.74,Suficiente
+20797,21.0,80.7,1,19,80.52,Si,Medio,41,3,EN LÍNEA,1,75.46,Bueno
+20798,30.0,95.8,Media,3,34.14,No,MEDIO,31,1,híbrido,0,71.46,Suficiente
+20799,10.0,51.6,Baja,19,57.71,No,bajo,25,2,Presencial,0,60.55,Suficiente
+20800,37.0,37.6,Media,12,49.44,0,Bajo,42,4,presencial,0,56.96,Reprobado
+20801,24.0,58.3,Baja,16,45.95,0,Bajo,0,3,en línea,0,48.3,Reprobado
+20802,2.0,49.8,Baja,2,74.96,0,MEDIO,13,6,Presencial,1,68.29,Suficiente
+20803,28.0,53.0,1,10,73.06,NO,Bajo,17,1,EN LÍNEA,0,70.89,Suficiente
+20804,13.0,94.2,alta,6,58.01,Si,Medio,0,6,híbrido,0,60.52,Suficiente
+20805,43.0,63.3,1,11,65.8,si,Bajo,17,0,híbrido,0,87.8,Bueno
+20806,33.0,47.0,alta,14,49.67,1,Medio,40,1,presencial,0,76.87,Bueno
+20807,16.0,84.3,alta,17,61.81,Si,MEDIO,35,0,híbrido,1,80.84,Bueno
+20808,49.0,76.1,Media,9,84.99,,Bajo,41,4,híbrido,1,100.0,Excelente
+20809,27.0,69.9,Baja,6,50.5,1,MEDIO,47,1,híbrido,0,63.78,Suficiente
+20810,14.0,47.8,media,17,49.91,1,,2,3,Presencial,0,44.59,Reprobado
+20811,24.0,64.4,Media,9,74.73,Si,Alto,42,6,EN LÍNEA,1,82.01,Bueno
+20812,45.0,96.7,1,11,87.59,1,Alto,42,0,presencial,0,99.11,Excelente
+20813,,91.2,alta,12,87.47,0,bajo,16,6,Presencial,1,72.56,Suficiente
+20814,,34.7,0,4,56.62,si,MEDIO,23,4,presencial,0,16.27,Reprobado
+20815,44.0,47.6,Baja,7,,0,Medio,34,0,en línea,0,69.77,Suficiente
+20816,38.0,70.3,0,2,43.21,0,MEDIO,47,3,híbrido,0,72.17,Suficiente
+20817,12.0,35.5,media,14,42.05,1,Bajo,25,2,Presencial,0,42.98,Reprobado
+20818,32.0,75.2,media,5,,0,Alto,43,5,EN LÍNEA,1,65.08,Suficiente
+20819,16.0,77.2,0,4,97.24,1,bajo,5,7,en línea,0,71.03,Suficiente
+20820,30.0,57.2,Baja,4,55.35,0,Medio,5,6,presencial,0,58.15,Reprobado
+20821,18.0,39.2,1,17,70.64,si,bajo,46,0,híbrido,1,80.46,Bueno
+20822,7.0,32.9,0,1,60.06,si,Alto,7,0,en línea,1,48.52,Reprobado
+20823,16.0,52.4,media,17,93.88,0,Medio,26,3,Presencial,1,81.14,Bueno
+20824,46.0,71.9,alta,14,81.92,No,Alto,47,7,híbrido,1,98.02,Excelente
+20825,39.0,65.9,media,17,80.66,No,Bajo,23,4,presencial,0,89.54,Bueno
+20826,22.0,69.7,0,2,62.28,0,Bajo,23,7,Presencial,1,75.09,Bueno
+20827,1.0,61.2,Baja,7,82.26,No,,38,6,Presencial,1,65.44,Suficiente
+20828,25.0,41.2,0,10,86.09,No,Medio,8,1,presencial,0,77.23,Bueno
+20829,47.0,43.6,ALTA,1,98.8,0,bajo,34,5,presencial,0,95.68,Excelente
+20830,5.0,92.8,1,16,39.72,No,Alto,15,2,Presencial,0,43.58,Reprobado
+20831,48.0,78.9,media,2,77.31,1,Bajo,31,5,Presencial,1,100.0,Excelente
+20832,20.0,80.1,0,4,43.69,1,MEDIO,43,3,híbrido,1,59.11,Reprobado
+20833,11.0,61.5,0,3,74.33,1,Alto,18,2,Presencial,0,56.19,Reprobado
+20834,6.0,36.4,Baja,4,47.01,,Medio,15,6,presencial,1,49.35,Reprobado
+20835,37.0,74.2,1,1,35.3,No,Medio,4,2,híbrido,1,64.64,Suficiente
+20836,26.0,82.8,0,13,83.42,0,MEDIO,23,6,en línea,0,89.25,Bueno
+20837,,70.5,alta,2,57.34,NO,bajo,5,5,presencial,1,86.84,Bueno
+20838,35.0,96.2,ALTA,12,47.22,Si,Bajo,15,3,Presencial,1,69.57,Suficiente
+20839,,65.4,ALTA,3,84.76,1,Alto,4,2,híbrido,0,69.47,Suficiente
+20840,43.0,60.9,ALTA,16,57.93,0,MEDIO,29,0,presencial,0,80.25,Bueno
+20841,35.0,93.0,Media,4,45.47,1,,31,5,Presencial,0,92.07,Excelente
+20842,3.0,34.3,1,1,74.01,0,Bajo,3,2,presencial,1,63.06,Suficiente
+20843,45.0,49.6,1,2,45.69,si,bajo,44,5,Presencial,0,62.79,Suficiente
+20844,,97.2,media,9,97.44,,MEDIO,17,2,EN LÍNEA,0,100.0,Excelente
+20845,26.0,72.3,Baja,9,65.75,,Medio,9,4,Presencial,1,72.37,Suficiente
+20846,40.0,38.9,2,14,91.85,Si,Medio,18,4,híbrido,0,84.18,Bueno
+20847,38.0,37.1,Alta,17,35.0,Si,bajo,37,3,híbrido,1,71.71,Suficiente
+20848,26.0,88.8,Baja,18,59.49,NO,Alto,12,4,en línea,1,75.58,Bueno
+20849,21.0,64.7,Media,0,30.74,No,bajo,18,2,presencial,0,41.69,Reprobado
+20850,17.0,63.9,Media,11,68.39,1,Alto,2,5,EN LÍNEA,1,77.12,Bueno
+20851,12.0,98.7,Alta,6,54.07,No,Alto,17,5,híbrido,1,70.66,Suficiente
+20852,36.0,42.0,media,10,83.06,No,,46,4,en línea,0,94.38,Excelente
+20853,49.0,60.5,1,4,34.99,,,42,3,EN LÍNEA,1,68.61,Suficiente
+20854,15.0,87.4,ALTA,12,61.61,Si,MEDIO,44,5,EN LÍNEA,0,65.85,Suficiente
+20855,,94.4,media,5,49.33,si,Alto,45,1,presencial,0,69.19,Suficiente
+20856,,53.0,2,17,55.8,No,Medio,45,6,híbrido,0,78.94,Bueno
+20857,,90.5,2,2,78.05,si,Medio,33,7,Presencial,0,100.0,Excelente
+20858,40.0,45.0,Media,0,47.65,1,Bajo,13,3,Presencial,1,73.81,Suficiente
+20859,,32.0,media,10,86.86,NO,Medio,23,3,Presencial,1,80.24,Bueno
+20860,9.0,36.8,2,0,,si,bajo,1,6,presencial,0,53.74,Reprobado
+20861,2.0,53.4,0,13,73.18,1,MEDIO,42,3,en línea,1,53.14,Reprobado
+20862,30.0,49.7,media,5,74.94,0,Alto,5,1,en línea,1,86.76,Bueno
+20863,21.0,63.7,2,0,51.64,1,MEDIO,14,0,en línea,0,63.41,Suficiente
+20864,29.0,82.8,Alta,14,60.76,1,,44,0,en línea,0,80.25,Bueno
+20865,37.0,65.3,1,17,39.07,1,bajo,46,3,presencial,0,57.62,Reprobado
+20866,14.0,76.7,media,7,59.21,,bajo,33,5,híbrido,0,51.19,Reprobado
+20867,19.0,47.6,alta,18,76.56,1,Alto,6,0,EN LÍNEA,0,66.05,Suficiente
+20868,12.0,55.3,2,8,61.77,si,Bajo,25,6,Presencial,0,46.36,Reprobado
+20869,5.0,69.3,ALTA,4,65.67,No,Alto,35,5,presencial,0,62.17,Suficiente
+20870,14.0,88.0,media,12,50.64,si,Alto,18,2,en línea,1,56.96,Reprobado
+20871,11.0,85.4,Media,15,96.15,0,Alto,35,5,híbrido,0,88.88,Bueno
+20872,17.0,48.6,1,0,46.58,1,Alto,16,1,presencial,1,46.54,Reprobado
+20873,19.0,54.7,media,12,32.89,NO,Bajo,33,5,en línea,1,43.17,Reprobado
+20874,8.0,85.7,Alta,11,82.0,si,Medio,6,4,EN LÍNEA,0,75.53,Bueno
+20875,47.0,65.2,Alta,17,93.14,,Medio,33,4,híbrido,0,100.0,Excelente
+20876,47.0,73.1,media,6,48.51,Si,Medio,34,5,Presencial,0,74.2,Suficiente
+20877,25.0,76.5,Alta,2,61.6,si,bajo,2,4,Presencial,0,91.41,Excelente
+20878,19.0,64.3,0,9,53.05,NO,MEDIO,6,7,Presencial,0,51.9,Reprobado
+20879,30.0,78.3,0,11,88.84,0,Alto,34,0,híbrido,0,83.74,Bueno
+20880,39.0,88.6,Baja,18,52.48,NO,,22,0,EN LÍNEA,1,82.6,Bueno
+20881,27.0,62.7,ALTA,17,35.0,0,MEDIO,40,7,híbrido,0,53.63,Reprobado
+20882,31.0,78.0,media,11,,si,MEDIO,26,4,híbrido,1,86.63,Bueno
+20883,31.0,99.8,alta,10,94.25,1,Bajo,18,2,Presencial,1,100.0,Excelente
+20884,2.0,64.6,2,9,89.09,,bajo,32,2,híbrido,0,60.36,Suficiente
+20885,40.0,54.3,Media,11,69.62,si,Alto,4,2,en línea,0,88.43,Bueno
+20886,43.0,69.1,ALTA,17,62.01,NO,MEDIO,35,3,presencial,1,81.63,Bueno
+20887,47.0,49.6,1,18,41.0,0,,8,4,en línea,0,77.46,Bueno
+20888,22.0,57.6,2,14,53.62,1,Bajo,3,2,en línea,0,71.28,Suficiente
+20889,17.0,82.5,Media,18,65.88,si,,36,7,Presencial,0,68.64,Suficiente
+20890,36.0,48.9,Media,16,31.48,si,,9,6,Presencial,1,48.65,Reprobado
+20891,9.0,66.7,Alta,14,37.26,0,Medio,28,4,Presencial,0,55.28,Reprobado
+20892,9.0,96.2,alta,2,,si,Bajo,33,5,presencial,0,82.14,Bueno
+20893,49.0,73.4,Baja,1,53.31,1,bajo,45,1,Presencial,0,95.18,Excelente
+20894,49.0,88.2,ALTA,10,52.82,0,Bajo,28,6,Presencial,1,98.03,Excelente
+20895,30.0,51.5,1,11,62.71,,Alto,32,6,EN LÍNEA,1,76.81,Bueno
+20896,30.0,91.0,1,5,45.0,1,Bajo,18,2,híbrido,1,88.06,Bueno
+20897,49.0,69.7,0,1,43.27,NO,Medio,44,1,híbrido,1,67.77,Suficiente
+20898,20.0,61.2,1,1,41.27,,,22,3,Presencial,1,51.78,Reprobado
+20899,44.0,47.0,media,15,72.12,1,,38,4,EN LÍNEA,0,98.27,Excelente
+20900,30.0,54.4,Media,18,30.59,si,Medio,2,5,EN LÍNEA,0,44.14,Reprobado
+20901,10.0,34.3,ALTA,4,52.97,,Medio,34,3,híbrido,1,47.47,Reprobado
+20902,23.0,56.6,1,19,93.18,,MEDIO,36,2,híbrido,0,81.73,Bueno
+20903,0.0,38.2,Media,10,95.63,si,,13,7,presencial,1,56.68,Reprobado
+20904,14.0,77.9,2,4,44.64,0,Medio,42,4,EN LÍNEA,0,58.64,Reprobado
+20905,11.0,41.2,media,11,33.64,si,Bajo,27,3,presencial,0,43.55,Reprobado
+20906,3.0,56.8,ALTA,5,38.59,NO,Medio,37,0,Presencial,1,29.22,Reprobado
+20907,19.0,40.1,Baja,16,63.79,NO,Medio,18,5,Presencial,1,59.92,Reprobado
+20908,17.0,59.5,media,12,59.71,NO,,15,4,presencial,0,74.48,Suficiente
+20909,40.0,37.3,0,5,71.47,NO,Medio,42,6,presencial,1,83.31,Bueno
+20910,32.0,48.3,2,4,98.31,si,Alto,30,5,Presencial,1,78.41,Bueno
+20911,28.0,37.3,2,16,86.2,si,bajo,4,2,híbrido,0,87.05,Bueno
+20912,38.0,64.6,2,13,35.27,1,MEDIO,36,7,Presencial,1,67.03,Suficiente
+20913,22.0,53.5,Media,12,38.94,,,19,5,híbrido,1,50.03,Reprobado
+20914,44.0,46.9,ALTA,17,43.01,,bajo,42,1,híbrido,1,64.37,Suficiente
+20915,5.0,60.8,Alta,14,47.55,,Alto,9,4,Presencial,0,37.96,Reprobado
+20916,40.0,51.8,media,12,,Si,Medio,10,4,en línea,0,66.69,Suficiente
+20917,3.0,62.7,ALTA,3,88.74,NO,Alto,33,0,EN LÍNEA,0,63.62,Suficiente
+20918,24.0,56.7,alta,6,93.11,No,Medio,33,6,en línea,0,77.05,Bueno
+20919,7.0,84.0,ALTA,7,68.31,si,MEDIO,13,4,en línea,0,57.6,Reprobado
+20920,33.0,89.5,Media,9,92.96,1,Medio,0,5,Presencial,0,100.0,Excelente
+20921,8.0,35.2,0,9,92.44,NO,,40,1,presencial,0,75.75,Bueno
+20922,,67.5,0,3,51.22,1,Bajo,36,5,híbrido,1,40.47,Reprobado
+20923,6.0,34.4,Media,7,61.36,0,Alto,42,4,híbrido,0,40.03,Reprobado
+20924,19.0,96.4,1,3,44.92,si,Medio,10,0,presencial,0,53.68,Reprobado
+20925,,50.4,Alta,2,99.51,No,Bajo,14,3,híbrido,0,85.71,Bueno
+20926,14.0,72.5,Media,10,70.8,NO,MEDIO,22,6,Presencial,0,69.02,Suficiente
+20927,8.0,42.9,Baja,7,81.93,1,Alto,45,4,presencial,0,61.27,Suficiente
+20928,19.0,47.0,Media,14,96.93,No,bajo,39,0,Presencial,1,80.04,Bueno
+20929,16.0,32.7,alta,12,33.8,0,Medio,34,2,en línea,0,35.91,Reprobado
+20930,35.0,67.9,Baja,15,56.81,No,MEDIO,14,3,EN LÍNEA,0,77.67,Bueno
+20931,25.0,35.7,Alta,12,56.33,1,Medio,26,3,presencial,1,46.36,Reprobado
+20932,30.0,53.9,alta,11,62.73,si,bajo,12,7,presencial,1,85.75,Bueno
+20933,2.0,61.9,media,9,47.45,Si,Alto,25,6,Presencial,1,34.88,Reprobado
+20934,20.0,84.1,alta,8,46.03,1,Bajo,33,2,EN LÍNEA,1,60.15,Suficiente
+20935,29.0,69.4,2,10,76.23,,Alto,16,0,en línea,1,70.98,Suficiente
+20936,23.0,58.4,1,3,,1,Medio,22,1,EN LÍNEA,0,78.2,Bueno
+20937,32.0,80.5,ALTA,14,44.01,1,Alto,21,2,Presencial,1,67.19,Suficiente
+20938,47.0,64.1,0,5,66.33,Si,Bajo,8,7,en línea,0,86.57,Bueno
+20939,41.0,50.4,2,4,,No,bajo,24,5,híbrido,1,62.91,Suficiente
+20940,5.0,73.4,Alta,2,61.73,NO,Medio,1,2,en línea,0,60.78,Suficiente
+20941,26.0,72.2,2,0,57.64,1,Alto,19,7,híbrido,1,59.42,Reprobado
+20942,37.0,53.7,2,19,62.51,1,bajo,28,4,Presencial,0,81.29,Bueno
+20943,38.0,51.7,1,5,35.63,si,Medio,46,6,Presencial,0,64.66,Suficiente
+20944,5.0,65.6,Baja,0,62.15,1,bajo,2,7,en línea,1,62.4,Suficiente
+20945,45.0,52.3,2,7,85.82,Si,Alto,21,6,EN LÍNEA,1,100.0,Excelente
+20946,1.0,54.1,media,5,73.09,,Alto,22,6,presencial,0,68.68,Suficiente
+20947,25.0,46.3,Media,0,62.46,0,MEDIO,10,4,Presencial,0,69.25,Suficiente
+20948,3.0,48.4,0,17,76.37,Si,MEDIO,19,7,EN LÍNEA,1,51.71,Reprobado
+20949,29.0,56.7,Media,19,36.67,0,Alto,29,1,en línea,1,71.01,Suficiente
+20950,44.0,73.5,ALTA,13,32.23,,MEDIO,29,5,EN LÍNEA,0,64.0,Suficiente
+20951,29.0,54.5,2,6,93.04,0,Alto,47,5,EN LÍNEA,0,85.02,Bueno
+20952,,47.5,Alta,19,98.16,No,MEDIO,45,7,EN LÍNEA,1,90.6,Excelente
+20953,46.0,99.9,2,4,88.18,1,bajo,12,6,híbrido,0,100.0,Excelente
+20954,41.0,70.6,media,12,54.37,Si,Bajo,27,5,híbrido,0,65.64,Suficiente
+20955,16.0,78.1,media,17,78.0,NO,bajo,37,0,EN LÍNEA,0,66.98,Suficiente
+20956,,96.2,alta,16,,No,Medio,24,0,Presencial,0,67.73,Suficiente
+20957,43.0,57.5,2,19,34.63,0,Medio,5,5,Presencial,0,69.68,Suficiente
+20958,17.0,34.8,2,0,,Si,MEDIO,25,3,híbrido,1,58.42,Reprobado
+20959,22.0,46.2,Baja,10,31.22,No,Alto,35,7,Presencial,0,43.08,Reprobado
+20960,,76.8,media,10,44.1,0,MEDIO,8,0,en línea,1,60.02,Suficiente
+20961,16.0,85.2,alta,15,32.64,1,Bajo,3,3,EN LÍNEA,0,59.3,Reprobado
+20962,17.0,86.0,1,5,69.82,No,bajo,3,3,EN LÍNEA,0,69.96,Suficiente
+20963,13.0,72.6,alta,14,78.73,Si,bajo,3,2,presencial,1,74.66,Suficiente
+20964,45.0,52.0,Baja,18,77.29,Si,Bajo,29,0,híbrido,1,100.0,Excelente
+20965,7.0,86.7,Media,9,52.97,Si,Alto,41,4,en línea,1,54.27,Reprobado
+20966,35.0,83.1,Alta,6,36.36,si,Medio,29,1,híbrido,1,69.88,Suficiente
+20967,18.0,70.8,ALTA,5,67.32,NO,MEDIO,28,0,Presencial,0,80.54,Bueno
+20968,43.0,57.5,0,17,32.37,NO,bajo,40,7,en línea,1,64.46,Suficiente
+20969,20.0,97.5,media,1,50.51,Si,Medio,32,6,Presencial,0,64.23,Suficiente
+20970,2.0,37.6,1,15,82.96,0,bajo,39,0,híbrido,1,48.14,Reprobado
+20971,42.0,95.1,2,16,74.93,,MEDIO,18,3,Presencial,1,99.72,Excelente
+20972,40.0,73.2,1,12,,NO,Alto,41,5,Presencial,0,62.51,Suficiente
+20973,46.0,69.1,Baja,0,,si,Alto,23,5,híbrido,1,100.0,Excelente
+20974,2.0,90.1,ALTA,13,62.64,Si,Bajo,4,0,Presencial,1,53.25,Reprobado
+20975,40.0,60.5,Baja,9,73.86,si,MEDIO,47,0,en línea,0,92.33,Excelente
+20976,9.0,88.8,Alta,0,,Si,Medio,34,0,EN LÍNEA,1,58.68,Reprobado
+20977,2.0,57.7,media,9,68.25,1,,40,6,Presencial,0,53.72,Reprobado
+20978,30.0,39.2,1,19,50.3,si,Bajo,28,6,en línea,0,59.32,Reprobado
+20979,30.0,59.2,0,4,94.32,No,Bajo,16,6,presencial,1,82.3,Bueno
+20980,42.0,98.2,Baja,2,,Si,Bajo,46,5,EN LÍNEA,0,100.0,Excelente
+20981,47.0,70.7,Media,0,84.8,Si,MEDIO,32,5,Presencial,0,99.69,Excelente
+20982,48.0,80.6,alta,5,41.9,1,bajo,33,3,Presencial,1,79.15,Bueno
+20983,20.0,68.7,1,12,94.37,NO,Bajo,5,2,Presencial,1,87.44,Bueno
+20984,4.0,52.5,alta,3,39.3,0,,11,1,híbrido,1,31.02,Reprobado
+20985,5.0,69.5,0,7,,1,MEDIO,8,7,en línea,1,51.83,Reprobado
+20986,13.0,75.0,alta,8,98.66,Si,MEDIO,13,0,híbrido,1,89.71,Bueno
+20987,11.0,69.3,Baja,11,75.46,1,Alto,2,6,híbrido,0,64.76,Suficiente
+20988,43.0,68.3,1,12,,1,MEDIO,1,0,EN LÍNEA,0,100.0,Excelente
+20989,25.0,68.5,alta,2,64.5,si,,18,5,presencial,0,68.49,Suficiente
+20990,35.0,60.6,1,14,60.85,No,Alto,7,7,híbrido,1,70.83,Suficiente
+20991,5.0,51.9,1,11,,0,,31,0,presencial,1,46.49,Reprobado
+20992,17.0,93.1,1,10,,No,Bajo,40,5,EN LÍNEA,1,67.15,Suficiente
+20993,29.0,73.3,1,8,73.51,si,MEDIO,27,6,EN LÍNEA,0,59.26,Reprobado
+20994,,69.2,alta,15,93.06,si,bajo,13,4,híbrido,1,100.0,Excelente
+20995,,70.9,alta,15,,1,Alto,44,6,híbrido,0,68.17,Suficiente
+20996,17.0,94.7,Baja,8,84.86,1,,26,6,EN LÍNEA,1,75.32,Bueno
+20997,36.0,67.5,Alta,1,61.64,1,MEDIO,25,0,presencial,1,82.67,Bueno
+20998,42.0,69.4,0,18,37.33,si,Alto,5,1,presencial,1,44.26,Reprobado
+20999,6.0,76.3,0,2,32.8,No,Medio,4,4,Presencial,0,40.33,Reprobado
+21000,6.0,94.1,ALTA,14,33.9,si,MEDIO,42,4,híbrido,0,43.7,Reprobado
+21001,14.0,55.1,1,4,60.84,1,Bajo,4,0,presencial,0,66.61,Suficiente
+21002,3.0,64.8,alta,5,73.28,0,bajo,19,4,Presencial,1,58.91,Reprobado
+21003,29.0,77.0,1,7,,,Bajo,28,1,en línea,0,70.35,Suficiente
+21004,,52.5,Alta,16,38.84,No,Alto,3,6,presencial,1,58.42,Reprobado
+21005,14.0,30.9,Media,8,,,Bajo,35,2,EN LÍNEA,0,52.94,Reprobado
+21006,,56.5,1,14,32.66,0,Alto,21,7,presencial,0,66.24,Suficiente
+21007,29.0,82.6,ALTA,14,66.76,Si,MEDIO,38,2,en línea,0,76.91,Bueno
+21008,4.0,86.6,ALTA,16,50.14,NO,MEDIO,41,5,presencial,0,63.27,Suficiente
+21009,22.0,30.6,2,8,98.8,0,bajo,41,0,presencial,1,93.9,Excelente
+21010,25.0,77.7,Alta,0,46.51,si,Alto,10,7,híbrido,1,73.48,Suficiente
+21011,49.0,30.3,alta,2,44.09,,Alto,26,7,presencial,1,88.8,Bueno
+21012,9.0,83.8,Alta,2,35.6,0,Medio,17,3,híbrido,0,49.05,Reprobado
+21013,29.0,99.3,Alta,15,69.3,NO,bajo,16,1,en línea,0,79.14,Bueno
+21014,43.0,95.4,0,12,,NO,,25,6,en línea,1,100.0,Excelente
+21015,4.0,86.7,alta,15,75.01,NO,Bajo,30,2,EN LÍNEA,0,65.7,Suficiente
+21016,48.0,57.5,2,13,86.93,0,Medio,42,3,EN LÍNEA,1,92.66,Excelente
+21017,,38.2,alta,5,55.59,0,Bajo,10,1,presencial,1,82.7,Bueno
+21018,43.0,62.8,0,18,61.57,No,Bajo,32,5,híbrido,1,80.03,Bueno
+21019,19.0,72.9,1,17,97.78,,Bajo,31,2,Presencial,1,81.12,Bueno
+21020,8.0,91.9,2,6,54.38,No,bajo,35,1,híbrido,0,43.9,Reprobado
+21021,,98.9,Alta,4,73.12,No,MEDIO,7,0,híbrido,0,67.77,Suficiente
+21022,,73.9,Media,14,65.28,0,Medio,47,5,EN LÍNEA,1,71.96,Suficiente
+21023,38.0,80.3,Baja,11,40.41,1,Bajo,14,0,híbrido,0,61.15,Suficiente
+21024,37.0,94.8,0,5,90.03,Si,bajo,25,4,Presencial,1,99.0,Excelente
+21025,44.0,30.1,Alta,7,,,MEDIO,22,0,en línea,0,72.95,Suficiente
+21026,18.0,38.2,Alta,14,33.15,si,,42,4,Presencial,1,50.58,Reprobado
+21027,33.0,90.6,Alta,13,48.99,0,MEDIO,26,0,EN LÍNEA,1,82.66,Bueno
+21028,23.0,57.6,0,11,73.64,Si,MEDIO,10,4,en línea,1,85.14,Bueno
+21029,39.0,65.3,Baja,1,91.57,si,Alto,5,4,híbrido,0,91.53,Excelente
+21030,20.0,68.9,0,14,47.83,No,bajo,1,1,híbrido,0,66.54,Suficiente
+21031,28.0,95.6,Baja,14,77.91,0,bajo,18,5,híbrido,0,91.15,Excelente
+21032,,85.9,2,5,98.64,si,bajo,17,7,Presencial,0,86.21,Bueno
+21033,,50.4,Baja,4,56.3,No,,4,2,en línea,0,72.06,Suficiente
+21034,2.0,38.8,Media,3,84.19,No,Medio,24,3,híbrido,0,56.28,Reprobado
+21035,15.0,33.2,Baja,16,51.72,0,Alto,46,1,híbrido,1,65.56,Suficiente
+21036,,40.0,0,14,58.04,Si,Bajo,16,4,en línea,0,76.66,Bueno
+21037,37.0,32.9,media,9,80.73,,Medio,5,5,en línea,1,81.05,Bueno
+21038,34.0,61.6,Media,18,,1,bajo,18,4,Presencial,0,99.65,Excelente
+21039,19.0,34.6,Alta,15,40.9,No,Bajo,42,4,híbrido,0,55.17,Reprobado
+21040,16.0,32.3,Baja,1,50.46,Si,,4,7,presencial,0,36.07,Reprobado
+21041,27.0,78.7,1,7,,No,bajo,39,4,EN LÍNEA,0,95.51,Excelente
+21042,48.0,84.8,2,0,87.92,,MEDIO,39,5,presencial,1,100.0,Excelente
+21043,14.0,78.4,ALTA,12,43.52,0,Alto,15,1,en línea,1,53.8,Reprobado
+21044,14.0,91.1,media,15,61.2,Si,Medio,27,0,en línea,1,71.36,Suficiente
+21045,45.0,96.8,2,4,54.06,0,Bajo,39,3,en línea,0,76.99,Bueno
+21046,38.0,93.0,1,2,60.04,0,bajo,35,1,en línea,1,85.21,Bueno
+21047,,42.9,ALTA,1,69.57,si,Bajo,37,6,en línea,1,75.07,Bueno
+21048,16.0,73.9,0,9,38.62,si,MEDIO,1,0,híbrido,1,35.66,Reprobado
+21049,48.0,84.7,Alta,0,59.8,1,bajo,2,5,Presencial,0,96.99,Excelente
+21050,1.0,46.1,1,6,79.45,,MEDIO,42,4,EN LÍNEA,1,64.99,Suficiente
+20031,1.0,53.1,alta,19,76.16,NO,Bajo,36,5,en línea,1,33.06,Reprobado
+20079,0.0,76.7,ALTA,18,65.59,Si,MEDIO,44,1,híbrido,0,46.01,Reprobado
+20704,2.0,81.8,Media,8,53.25,No,Medio,3,7,EN LÍNEA,0,52.31,Reprobado
+20711,31.0,38.0,0,0,37.32,NO,,5,4,en línea,1,58.34,Reprobado
+20888,22.0,57.6,2,14,53.62,1,Bajo,3,2,en línea,0,71.28,Suficiente
+20465,0.0,78.6,ALTA,0,60.94,Si,bajo,13,5,EN LÍNEA,1,55.68,Reprobado
+20064,14.0,62.7,Baja,13,91.58,0,Medio,34,7,en línea,0,77.71,Bueno
+20790,14.0,45.2,Baja,7,39.03,1,MEDIO,16,1,EN LÍNEA,0,44.22,Reprobado
+20560,0.0,60.7,0,1,50.68,No,Medio,23,0,en línea,1,41.39,Reprobado
+20236,15.0,90.4,media,17,62.57,Si,,27,6,Presencial,0,69.03,Suficiente
+20526,13.0,61.5,media,16,42.97,NO,bajo,20,3,EN LÍNEA,1,44.57,Reprobado
+20244,21.0,46.6,1,9,30.37,si,Alto,24,1,híbrido,0,53.59,Reprobado
+20430,11.0,96.1,ALTA,6,76.92,Si,Medio,7,6,Presencial,1,68.32,Suficiente
+20718,9.0,76.0,alta,5,30.48,NO,Alto,1,0,EN LÍNEA,0,58.75,Reprobado
+20254,29.0,37.2,1,0,64.19,0,Medio,0,2,presencial,0,76.17,Bueno
+20436,24.0,46.3,alta,16,70.06,Si,bajo,45,5,híbrido,0,77.49,Bueno
+20904,14.0,77.9,2,4,44.64,0,Medio,42,4,EN LÍNEA,0,58.64,Reprobado
+20750,9.0,85.3,Alta,2,85.77,Si,Alto,46,6,Presencial,0,77.78,Bueno
+20242,11.0,80.9,media,11,93.74,0,MEDIO,17,0,presencial,0,76.05,Bueno
+20571,15.0,61.8,2,5,86.15,si,bajo,19,7,híbrido,0,80.93,Bueno
